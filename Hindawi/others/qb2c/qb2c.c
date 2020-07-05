@@ -164,7 +164,7 @@ main(int n_arg_int, char *argv_S[])
  static char  darr_S[MARR+1][80+1];   /* list of SHARED arrays which are used in MAIN, and respective DYNAMIC flags (set if dynamic) */
  static int   alist_int[SHMX+1];   /* list of SHARED arrays which are used in MAIN, and respective DYNAMIC flags (set if dynamic) */
  static short dynaf__int[MARR+1];   /* list of SHARED arrays which are used in MAIN, and respective DYNAMIC flags (set if dynamic) */
- static char  atyp_S[9][LMAX];
+ static char  atyp_S[10][LMAX];
  static char  cg_S[CMAX+1][1000+1];   /* global and MAIN declarations */
  static char  cm_S[CMAX+1][1000+1];   /* global and MAIN declarations */
  static char  data_S[NDAT+1][256+1];   /* Storage for DATA block */
