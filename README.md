@@ -6,6 +6,10 @@ No Warranty, Zero Liability
 
 Note: Individual files may have independent license and copyright terms
 
+## Project Hindawi is now part of Project VIKRAM https://projectvikram.github.io
+
+## Technical support from: AyeAI Consulting https://ayeai.xyz
+
 ## Latest features
 1. Updated support for IPython Notebooks (Jupyter Notebooks)
 2. Docker based workflow (non-docker workflow also available)
@@ -29,5 +33,3 @@ You may use a physical on premise (local physical) system, or an off prem (publi
 9. Support for quantum computing
 10. Support for DNA computing
 
-Project Hindawi is now part of Project VIKRAM https://projectvikram.github.io
-Technical support from: AyeAI Consulting https://ayeai.xyz
