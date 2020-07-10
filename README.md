@@ -1,8 +1,8 @@
 # Hindawi 2020.1
-Hindawi Programming System (Hindawi@Linux) 2020 version
-(C) Copyright 2020 Abhishek Choudhary, Dr Srija Katta
-Released under GNU GPL v2
-No Warranty, Zero Liability
+Hindawi Programming System (Hindawi@Linux) 2020 version <br>
+(C) Copyright 2020 Abhishek Choudhary, Dr Srija Katta <br>
+Released under GNU GPL v2 <br>
+No Warranty, Zero Liability <br>
 
 Note: Individual files may have independent license and copyright terms
 
