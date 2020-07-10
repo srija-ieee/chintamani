@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/hindawiai/hindawi2020/master/Notebooks/la
 You may use a physical on premise (local physical) system, or an off prem (public cloud) system. We recommend using Ubuntu based host systems.
 
 ## Coming soon
-1. Google Colab support
+1. Google Colab support - Done
 2. Instructions for running Hindawi on major cloud providers
 3. Support for data science and artificial intelligence in mother tongue
 4. Support for global non-English languages
