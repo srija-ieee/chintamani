@@ -16,6 +16,7 @@ Note: Individual files may have independent license and copyright terms
 3. Enabled support for Google colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hindawiai/hindawi2020/blob/master/Notebooks/Hindawi2020.1.ipynb)
+[Share on WhatsApp](https://api.whatsapp.com/send?text=Mother%20tongue%20based%20programming%20for%20everyone%20https://github.com/hindawiai/hindawi2020/)
 
 ## Quick start
 Execute the following commands on a docker capable system
