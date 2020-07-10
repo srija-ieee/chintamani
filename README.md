@@ -13,6 +13,9 @@ Note: Individual files may have independent license and copyright terms
 ## Latest features
 1. Updated support for IPython Notebooks (Jupyter Notebooks)
 2. Docker based workflow (non-docker workflow also available)
+3. Enabled support for Google colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hindawiai/hindawi2020/blob/master/Notebooks/Hindawi2020.1.ipynb)
 
 ## Quick start
 Execute the following commands on a docker capable system
