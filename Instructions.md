@@ -1,4 +1,4 @@
-Instructions to use hindawi2020 notebook on "Play with Docker"
+## Instructions to use hindawi2020 notebook on "Play with Docker"
 
 Step 1 : Signin into "Play with docker" and get started 
 
