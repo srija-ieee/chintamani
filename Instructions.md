@@ -6,7 +6,7 @@ Step 2 : Create an instance
 
 Step 3 : Copy and paste the quick start commands from readme into the terminal and run
 
-Step 4 : Port numbers are dispalayed at the top as the code gets executed
+Step 4 : Port numbers are dispalayed at the top once the code is executed
 
 Step 5 : Click on "8888" to open Jupyter notebook
 
