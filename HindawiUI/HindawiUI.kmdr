@@ -20,7 +20,7 @@
         <cursor>0</cursor>
     </property>
     <property name="caption">
-        <string>हिंदवी लघु सवक्ष</string>
+        <string>हिंदवी क्रमानुशीलन प्रणाली</string>
     </property>
     <property name="icon">
         <pixmap>image0</pixmap>
@@ -85,35 +85,6 @@
             <string>मिला जगत् को ज्ञान हम ही से, अज्ञान की तिमिर मिटाएँगे। विद्या के नए दीप जलाकर, नित नई राह दिखाएँगे।।</string>
         </property>
     </widget>
-    <widget class="TextEdit">
-        <property name="name">
-            <cstring>editor</cstring>
-        </property>
-        <property name="geometry">
-            <rect>
-                <x>10</x>
-                <y>31</y>
-                <width>600</width>
-                <height>160</height>
-            </rect>
-        </property>
-        <property name="font">
-            <font>
-                <pointsize>11</pointsize>
-            </font>
-        </property>
-        <property name="populationText">
-            <string>@File.read(@fileSelect)</string>
-        </property>
-        <property name="associations" stdset="0">
-            <stringlist>
-                <string>@widgetText</string>
-            </stringlist>
-        </property>
-        <property name="toolTip" stdset="0">
-            <string>यहाँ प्रोग्राम लिखें</string>
-        </property>
-    </widget>
     <widget class="QLayoutWidget">
         <property name="name">
             <cstring>Layout20</cstring>
@@ -169,9 +140,9 @@
                             </color>
                         </property>
                         <property name="text">
-                            <string>           हिंदवी क्रमानुशीलन प्रणाली
-Copyright (C) 2006 Abhishek Choudhary 
-GNU GPL V2 license. NO WARRANTY.</string>
+                            <string>           हिंदवी क्रमानुशीलन प्रणाली 2021
+Copyright (C) 2006-2020 Abhishek Choudhary 
+AyeAI AyeSPL license (latest). NO WARRANTY.</string>
                         </property>
                         <property name="toolTip" stdset="0">
                             <string>संपर्क करें: ई-मेल - choudhary@indicybers.net मोबाईल +91-9980340138</string>
@@ -965,39 +936,6 @@ GNU GPL V2 license. NO WARRANTY.</string>
             <string>प्रोग्राम की प्रविष्टियाँ</string>
         </property>
     </widget>
-    <widget class="Label">
-        <property name="name">
-            <cstring>Label4</cstring>
-        </property>
-        <property name="geometry">
-            <rect>
-                <x>10</x>
-                <y>450</y>
-                <width>80</width>
-                <height>91</height>
-            </rect>
-        </property>
-        <property name="paletteForegroundColor">
-            <color>
-                <red>156</red>
-                <green>63</green>
-                <blue>12</blue>
-            </color>
-        </property>
-        <property name="font">
-            <font>
-                <pointsize>11</pointsize>
-            </font>
-        </property>
-        <property name="text">
-            <string>प्रविष्टियाँ:
-(अपेक्षित उत्तर
-यहाँ लिखें।)</string>
-        </property>
-        <property name="toolTip" stdset="0">
-            <string>जीवन के हर एक क्षेत्र में, प्रण करो हम अग्रिम होंगे। रण-धन में ही जीत नहीं, मन भी जग का हम हर लेंगे।।</string>
-        </property>
-    </widget>
     <widget class="QSplitter">
         <property name="name">
             <cstring>Splitter2</cstring>
@@ -1079,6 +1017,71 @@ GNU GPL V2 license. NO WARRANTY.</string>
                 <string>प्रोग्राम बंद करें</string>
             </property>
         </widget>
+    </widget>
+    <widget class="TextEdit">
+        <property name="name">
+            <cstring>editor</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>10</x>
+                <y>31</y>
+                <width>600</width>
+                <height>160</height>
+            </rect>
+        </property>
+        <property name="font">
+            <font>
+                <pointsize>11</pointsize>
+            </font>
+        </property>
+        <property name="cursor">
+            <cursor>13</cursor>
+        </property>
+        <property name="populationText">
+            <string>@File.read(@fileSelect)</string>
+        </property>
+        <property name="associations" stdset="0">
+            <stringlist>
+                <string>@widgetText</string>
+            </stringlist>
+        </property>
+        <property name="toolTip" stdset="0">
+            <string>यहाँ प्रोग्राम लिखें</string>
+        </property>
+    </widget>
+    <widget class="Label">
+        <property name="name">
+            <cstring>Label4</cstring>
+        </property>
+        <property name="geometry">
+            <rect>
+                <x>10</x>
+                <y>450</y>
+                <width>80</width>
+                <height>91</height>
+            </rect>
+        </property>
+        <property name="paletteForegroundColor">
+            <color>
+                <red>156</red>
+                <green>63</green>
+                <blue>12</blue>
+            </color>
+        </property>
+        <property name="font">
+            <font>
+                <pointsize>11</pointsize>
+            </font>
+        </property>
+        <property name="text">
+            <string>प्रविष्टियाँ:
+(अपेक्षित उत्तर
+यहाँ लिखें।)</string>
+        </property>
+        <property name="toolTip" stdset="0">
+            <string>जीवन के हर एक क्षेत्र में, प्रण करो हम अग्रिम होंगे। रण-धन में ही जीत नहीं, मन भी जग का हम हर लेंगे।।</string>
+        </property>
     </widget>
 </widget>
 <images>
