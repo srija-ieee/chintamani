@@ -20,7 +20,7 @@
         <cursor>0</cursor>
     </property>
     <property name="caption">
-        <string>हिंदवी क्रमानुशीलन प्रणाली</string>
+        <string>?????? ??????????? ???????</string>
     </property>
     <property name="icon">
         <pixmap>image0</pixmap>
@@ -749,7 +749,7 @@ AyeAI AyeSPL license (latest). NO WARRANTY.</string>
                 </property>
                 <property name="associations" stdset="0">
                     <stringlist>
-                        <string>@exec(konsole -e ./hin.exe)</string>
+                        <string>@exec(konsole -e "bash -lc './hin.exe &amp;&amp; bash -l'")</string>
                     </stringlist>
                 </property>
                 <property name="toolTip" stdset="0">
