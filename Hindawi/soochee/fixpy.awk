@@ -32,31 +32,8 @@
 
 #Script for Hindawi Indic Programming System Ver. 0.2.0 - Java classname fixer
 
-BEGIN	{
-		ccnt=0;
-		srcfn="";
-	}
-		
-/class/	{
-		if(ccnt>1)
-			print "कृप्या एक मूल खाते में केवल एक ही श्रेणी (क्लास) घोषित करें।";
-		ccnt = ccnt + 1
-		split($0,a,"class "); 
-		sub(/^ */,"",a[2]);
-		split(a[2],b," extends");
-		split(b[1],c,"{");
-		split(c[1],d," ");
-		sub(/ *$/,"",d[1]);
-		srcfn=d[1];
-		sub(/\r/,"",srcfn);
-	}
-
 END	{
-		comm="cp tempfil0123.tmphin.java "srcfn".java";
-		system(comm);
-		comm="javac "srcfn".java 2>> tempfil0123.tmphin";
-		system(comm);
-                comm="echo java "srcfn" 2>> tempfil0123.tmphin >hin.exe"
+                comm="echo pyhton3 tempfil0123.tmphin.python >hin.exe"
                 system(comm);
                 comm="chmod +x hin.exe"
                 system(comm);

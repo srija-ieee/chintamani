@@ -96,7 +96,7 @@ static char spc_S[LMAX], line_S[LMAX];
 FILE *fp_2, *fp_1, *fp_3;
 char fn2__S[160], fn1__S[160], fn3__S[160];
 
-main(int n_arg_int, char *argv_S[])
+int main(int n_arg_int, char *argv_S[])
 {
  static int  nfuncs_int, nSHRDtk_int, lspac_int, nsub_int, jopn_int;
  static int  nlopen_int, signal_int, endmain_int, usersub_int, initline_int;
@@ -4264,7 +4264,7 @@ Lab_19000:   /* "END SUB"  and "END FUNCTION" */
 
 
 Lab_19100:   /* "EXIT SUB" */
- strcpy(prtf_S,"return;");
+ strcpy(prtf_S,"return 0;");
  fprintf(fp_2,"%s%s%s\n",spc_S,prtf_S,t_S);
  commfl_int = 1;
  /* RETURN */
@@ -7921,7 +7921,7 @@ Lab_172:
        }
  }
  gulix(h_S);
- return;
+ return 0;
 
 Lab_176:   /* Ugradnja kvadratnih zagrada u polja u izrazima (ne u DIM) */
  /* Ulaz: h$, i%, Izlaz: izmijenjena linija h$ i (eventualno) novi i% */

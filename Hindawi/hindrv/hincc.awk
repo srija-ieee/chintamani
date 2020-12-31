@@ -64,6 +64,8 @@ END	{
 				system("shraenicc tempfil012345.temphin");
 			else if (cc=="shab_da>")
 				system("shabdacc tempfil012345.temphin");
+                        else if (cc=="soochee>")
+                                system("soocheecc tempfil012345.temphin");
 			else if (cc=="wyaaka>")
 				system("wyaakacc tempfil012345.temphin");
 			else if (cc=="ya_m_tra>")

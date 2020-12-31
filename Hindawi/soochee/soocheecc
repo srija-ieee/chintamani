@@ -1,6 +1,6 @@
-#!/usr/bin/gawk -f
+#!/bin/bash
 
-#Copyright (C) 2006-2020 Abhishek Choudhary
+#Copyright (C) 2006 Abhishek Choudhary
 #This file is part of the Hindawi Indic Programming System.
 #
 #The Hindawi Indic Programming System is free software; 
@@ -30,34 +30,13 @@
 #                 Abhishek Choudhary <hi_pedler>,
 #                 choudhary@indicybers.net
 
-#Script for Hindawi Indic Programming System Ver. 0.2.0 - Java classname fixer
+#Script for Hindawi Indic Programming System Ver. 0.2.0 - Shaili soochee
 
-BEGIN	{
-		ccnt=0;
-		srcfn="";
-	}
-		
-/class/	{
-		if(ccnt>1)
-			print "कृप्या एक मूल खाते में केवल एक ही श्रेणी (क्लास) घोषित करें।";
-		ccnt = ccnt + 1
-		split($0,a,"class "); 
-		sub(/^ */,"",a[2]);
-		split(a[2],b," extends");
-		split(b[1],c,"{");
-		split(c[1],d," ");
-		sub(/ *$/,"",d[1]);
-		srcfn=d[1];
-		sub(/\r/,"",srcfn);
-	}
+echo संकलन के परिणाम >  tempfil0123.tmphin
+echo ============ >> tempfil0123.tmphin
+cat $1 | acii2uni | iconv -f UTF-16 -t UTF-8 | h2py > tempfil0123.tmphin.python
+cat tempfil0123.tmphin.java | fixpy.awk
+cat tempfil0123.tmphin
+rm tempfil0123.tmphin
 
-END	{
-		comm="cp tempfil0123.tmphin.java "srcfn".java";
-		system(comm);
-		comm="javac "srcfn".java 2>> tempfil0123.tmphin";
-		system(comm);
-                comm="echo java "srcfn" 2>> tempfil0123.tmphin >hin.exe"
-                system(comm);
-                comm="chmod +x hin.exe"
-                system(comm);
-	}
+

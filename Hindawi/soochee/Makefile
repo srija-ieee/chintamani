@@ -1,5 +1,3 @@
-#!/usr/bin/gawk -f
-
 #Copyright (C) 2006-2020 Abhishek Choudhary
 #This file is part of the Hindawi Indic Programming System.
 #
@@ -26,38 +24,38 @@
 #                 Changed by <alias>,
 #                 email@server.tld
 #
-#  31-Jul-2006, Created script, Ver. 0.2.0,
+#  31-Jul-2006, Created makefile, Ver. 0.2.0,
 #                 Abhishek Choudhary <hi_pedler>,
 #                 choudhary@indicybers.net
 
-#Script for Hindawi Indic Programming System Ver. 0.2.0 - Java classname fixer
+#Makefile for Hindawi Indic Programming System Ver. 0.2.0 - Shaili Kritrima
 
-BEGIN	{
-		ccnt=0;
-		srcfn="";
-	}
-		
-/class/	{
-		if(ccnt>1)
-			print "कृप्या एक मूल खाते में केवल एक ही श्रेणी (क्लास) घोषित करें।";
-		ccnt = ccnt + 1
-		split($0,a,"class "); 
-		sub(/^ */,"",a[2]);
-		split(a[2],b," extends");
-		split(b[1],c,"{");
-		split(c[1],d," ");
-		sub(/ *$/,"",d[1]);
-		srcfn=d[1];
-		sub(/\r/,"",srcfn);
-	}
+EXECDIR=/usr/bin
 
-END	{
-		comm="cp tempfil0123.tmphin.java "srcfn".java";
-		system(comm);
-		comm="javac "srcfn".java 2>> tempfil0123.tmphin";
-		system(comm);
-                comm="echo java "srcfn" 2>> tempfil0123.tmphin >hin.exe"
-                system(comm);
-                comm="chmod +x hin.exe"
-                system(comm);
-	}
+all:
+	cat h2py.uhin | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf > h2py.lex
+	flex -olexyy.c -8 h2py.lex
+	gcc -oh2py lexyy.c -lfl
+	cat py2h.uhin | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf > py2h.lex
+	flex -olexyy.c -8 py2h.lex
+	gcc -opy2h lexyy.c -lfl
+
+clean_all: clean
+
+clean:
+	rm lexyy.c
+	rm *.lex
+	rm h2py
+	rm py2h
+
+install:
+	install h2py $(INSTROOT)$(EXECDIR)/h2py
+	install py2h $(INSTROOT)$(EXECDIR)/py2h
+	install soocheecc $(INSTROOT)$(EXECDIR)/soocheecc
+	install fixpy.awk $(INSTROOT)$(EXECDIR)/fixpy.awk
+
+uninstall:
+	rm $(INSTROOT)$(EXECDIR)/h2py
+	rm $(INSTROOT)$(EXECDIR)/py2h
+	rm $(INSTROOT)$(EXECDIR)/soocheecc
+	rm $(INSTROOT)$(EXECDIR)/fixpy.awk
