@@ -1,4 +1,4 @@
-#Copyright (C) 2006 Abhishek Choudhary
+#Copyright (C) 2004-2021 Abhishek Choudhary
 #This file is part of the Romenagri Transliteration System.
 #
 #The Romenagri Transliteration System is free software; 
@@ -23,6 +23,10 @@
 #  dd-mmm-yyyy, Nature of change,
 #                 Changed by <alias>,
 #                 email@server.tld
+#
+#  08-Jun-2021, Add cleanup code for generated binaries,
+#                 Abhishek Choudhary <hi_pedler>,
+#                 choudhary@indicybers.net
 #
 #  18-Jan-2006, Added unicode and clean_unic targets,
 #                 Abhishek Choudhary <hi_pedler>,
@@ -135,7 +139,7 @@ test: rmn2acii.h acii2rmn.h librmnagri main.o
 	$(CC) $(CFLAGS) -o $@ -c $<
 
 #Cleanup after library make
-clean:
+clean: clean_all
 	rm *.o
 	rm *.a
 
