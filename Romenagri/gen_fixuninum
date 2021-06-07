@@ -1,1 +1,1 @@
-cat iscii_map.csv | grep Digit | awk -F',' 'BEGIN {printf "%{\n%}\n%%%%\n"};/.*/ {printf $3; for(i=4;i<NF;i+=2){printf " | " $i} print "    {printf(\"" $3 "\");}"}'
+cat iscii_map.csv | grep Digit | awk -F',' 'BEGIN {printf "%{\n%}\n%%%%\n"};/.*/ {printf $3; for(i=4;i<NF;i+=2){printf "|" $i} print "    {printf(\"" $3 "\");}"}'
