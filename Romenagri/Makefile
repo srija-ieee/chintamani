@@ -25,16 +25,17 @@
 #                 email@server.tld
 #
 #  08-Jun-2021, Add cleanup code for generated binaries,
-#                 Abhishek Choudhary <hi_pedler>,
-#                 choudhary@indicybers.net
+#                 Abhishek Choudhary <obonac>,
+#                 a.choudhary@ieee.org
 #
 #  18-Jan-2006, Added unicode and clean_unic targets,
-#                 Abhishek Choudhary <hi_pedler>,
-#                 choudhary@indicybers.net
+#                 Abhishek Choudhary <obonac>,
+#                 a.choudhary@ieee.org
 #
 #  15-Jan-2006, Created makefile, Ver. 0.2.0,
-#                 Abhishek Choudhary <hi_pedler>,
-#                 choudhary@indicybers.net
+#                 Abhishek Choudhary <obonac>,
+#                 a.choudhary@ieee.org
+#
 
 #Makefile for Romenagri Transliteration System Ver. 0.1.0
 
@@ -61,7 +62,7 @@ CFLAGS=-Wall -Wno-unused
 LIB=ar
 
 #Archiver options
-LIBFLAGS=-cru
+LIBFLAGS=-cr
 
 #Lex compiler to be used
 LEX=flex
@@ -172,7 +173,7 @@ explain:
 	@echo make librmnagri :- makes library
 	@echo make filters :- makes filters
 	@echo make test :- makes test
-	@echo make clean :- cleans object-files and library
+	@echo make clean :- cleans object-files and library -- clean_all as of 2021 June
 	@echo make clean_filt :- cleans filters
 	@echo make clean_test :- cleans test
 	@echo make clean_all :- cleans object-files, filters, test and library
