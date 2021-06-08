@@ -17,6 +17,7 @@ Note: Individual files may have independent license and copyright terms
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hindawiai/hindawi2020/blob/master/Notebooks/Hindawi2021.6.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hindawiai/hindawi2020/master?filepath=Notebooks%2FHindawi2021.6.ipynb)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/hindawiai/hindawi2020/blob/master/Notebooks/Hindawi2021.6.ipynb)
 
 [Share on WhatsApp](https://api.whatsapp.com/send?text=Mother%20tongue%20based%20programming%20for%20everyone%20https://github.com/hindawiai/hindawi2020/)
 
