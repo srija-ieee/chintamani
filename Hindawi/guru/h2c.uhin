@@ -161,7 +161,6 @@ __खाता__                   {printf("__FILE__");}
 __पंक्ति__                   {printf("__LINE__");}
 __मानक__                 {printf("__STDC__");}
 __समय__                 {printf("__TIME__");}
-_निकास                   {printf("_exit");}
 पात                        {printf("abort");}
 असल                        {printf("abs");}
 समय_ठीक                    {printf("asctime");}

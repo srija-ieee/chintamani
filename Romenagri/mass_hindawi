@@ -1,0 +1,18 @@
+for n in $(find . -type f | grep '\.[ch]$'); do cat $n | c2h | acii2uni | iconv -futf16 -tutf8 | awk 'BEGIN {print "<शैली गुरु>"};{print}' > $n.uhin; done
+
+#cat main.c.uhin | tail +2 | iconv -futf8 -tutf16 | uni2acii | acii2pcf | h2c > main.c.test
+
+for n in $(find . -type f | grep '\.[ch]\.uhin$'); do cat $n | tail +2 | iconv -futf8 -tutf16 | uni2acii | acii2pcf | h2c > $(echo $n | sed 's/uhin$/test/g') && echo Comparing $(echo $n | sed 's/\.uhin$//g') $(echo $n | sed 's/uhin$/test/g') ... && diff $(echo $n | sed 's/\.uhin$//g') $(echo $n | sed 's/uhin$/test/g'); done
+
+echo 'trace_kvm_run_exit(cpu->cpu_index, run->exit_reason);' | c2h | acii2uni | iconv -futf16 -tutf8
+echo 'traceअ्kvmअ्run_निकास(cpu->cpuअ्index, run->निकासअ्reason);' | iconv -futf8 -tutf16 | uni2acii | acii2pcf | h2c
+
+#TBD: Bug in flex or wrong grammar?
+echo 'trace_kvm_run_exit(cpu->cpu_index, run->exit_reason); SIG_DFL' | c2h | c2h | acii2uni | iconv -futf16 -tutf8
+echo 'traceअ्kvmअ्run_निकास(cpu->cpuअ्index, run->निकासअ्reason); संक_पूर्व' | iconv -futf8 -tutf16 | uni2acii | acii2pcf | h2c
+
+
+#After fixing rmn2acii
+echo 'trace_kvm_run_exit(cpu->cpu_index, ""run->exit_reason"" "नमस्ते" "aनमस्ते" "नमaस्ते" "नमस्तेa" नमस्ते" "aनमस्ते" "नमaस्ते" "नमस्तेa); SIG_DFL नमस्ते" aनमस्ते नमaस्ते नमस्तेa' | iconv -futf8 -tutf16 | uni2acii | acii2rmn | acii2rmn | rmn2acii | rmn2acii | acii2uni | iconv -futf16 -tutf8
+
+

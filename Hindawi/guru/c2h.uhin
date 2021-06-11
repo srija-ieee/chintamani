@@ -33,6 +33,7 @@ Modifications: (Please maintain reverse chronological order)
                         choudhary@indicybers.net
 
 End of modifications.
+"_"          {printf("अ्");}
 */
  
 %}
@@ -42,8 +43,6 @@ End of modifications.
  
 \'("\\\'"|.*)*\'                       {printf("%s",yytext);}
 \"("\\\""|[^\"^\n]*)*\"                {printf("%s",yytext);}
- 
-"_"          {printf("अ्");}
  
 main         {printf("मुख्य");}
 alloc\.h         {printf("भाग.स");}

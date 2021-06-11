@@ -37,7 +37,7 @@ all:
 	flex -olexyy.c -8 h2c.lex
 	gcc -oh2c lexyy.c -lfl
 	cat c2h.uhin | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf > c2h.lex
-	flex -olexyy.c -8 h2c.lex
+	flex -olexyy.c -8 c2h.lex
 	gcc -oc2h lexyy.c -lfl
 
 clean_all: clean

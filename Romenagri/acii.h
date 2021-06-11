@@ -53,9 +53,9 @@ End of modifications.
 static char *acii_chrt[ACII_LEN][2]=
 {
 {"",    "ïB"},           /*control should be at index 0*/
-{"__",   "_"},            /*expand control underscore*/
+{"__",   "_"},           /*expand control underscore*/
 {"_a",   "¤"},
-{"^a",    ""},             /*maatra 'a' is invisible in acii*/
+{"^a",    ""},           /*maatra 'a' is invisible in acii*/
 {"_aa",  "¥"},
 {"^aa",  "Ú"},
 {"_i",   "¦"},

@@ -34,6 +34,7 @@ Modifications: (Please maintain reverse chronological order)
 			choudhary@indicybers.net
 
 End of modifications.
+[A-Za-z_]+_/[^A-Z^a-z^\_^\n^\b^\']+    {printf("%s",acii2rmn(yytext));}
 */
 	
 #include "acii.h"
@@ -44,8 +45,8 @@ char msg2[10240], *msg=msg2;
 %}
 
 %%
-\'[^\'^\n]*\'                          {printf("%s",yytext);}
+[\'][^\'^\n]*[\']               {printf("%s",yytext);}
+[\"][^\"^\n]*[\"]               {printf("%s",yytext);}
 [A-Za-z_]+                             {printf("%s",yytext);}
-[^A-Z^a-z^\_^\n^\b^\']+                {printf("%s",acii2rmn(yytext));}
-[A-Za-z_]+_/[^A-Z^a-z^\_^\n^\b^\']+    {printf("%s",acii2rmn(yytext));}
+[^A-Z^a-z^\_^\n^\b^\'^\"]+             {printf("%s",acii2rmn(yytext));}
 %%
