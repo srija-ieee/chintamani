@@ -34,6 +34,7 @@ Modifications: (Please maintain reverse chronological order)
 			choudhary@indicybers.net
 
 End of modifications.
+A-Za-z_0-9\,\.\!\@\#\$\%\^\&\*\(\)\_\-\=\+\\\|\;\:\'\"\/
 */
 	
 #include "acii.h"
@@ -44,7 +45,7 @@ char msg2[4096], *msg=msg2, hldtxt2[1024], *hldtxt=hldtxt2;
 %}
 
 %%
-\"e_[A-Za-z_0-9\,\.\!\@\#\$\%\^\&\*\(\)\_\-\=\+\\\|\;\:\'\"\/]*\"              {strcpy(hldtxt,yytext); hldtxt[strlen(hldtxt)-1]=0; printf("%s",hldtxt+3);}
+\"e_[^\"]*\"                  {strcpy(hldtxt,yytext); hldtxt[strlen(hldtxt)-1]=0; printf("%s",hldtxt+3);}
 \"\"("\\\""|[^\"^\n]*)*\"\"   {strcpy(hldtxt,yytext); hldtxt[strlen(hldtxt)-1]=0; printf("%s",hldtxt+1);}
 [A-Za-z_]*                    {strcpy(hldtxt,yytext); hldtxt[strlen(hldtxt)]=0; printf("%s",rmn2acii(hldtxt));}
 %%
