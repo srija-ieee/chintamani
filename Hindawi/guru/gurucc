@@ -35,7 +35,8 @@
 echo संकलन के परिणाम >  tempfil0123.tmphin
 echo ============ >> tempfil0123.tmphin
 cat $1 | acii2uni | iconv -f UTF-16 -t UTF-8 | h2c > tempfil0123.tmphin.c
-gcc tempfil0123.tmphin.c -o hin.exe 2>> tempfil0123.tmphin
+sed -i 's/\\न/\\n/g; s/\%भ/\%f/g; s/\%प/\%d/g;' tempfil0123.tmphin.c
+gcc tempfil0123.tmphin.c -o hin.exe -lm 2>> tempfil0123.tmphin
 cat tempfil0123.tmphin
 rm tempfil0123.tmphin
 

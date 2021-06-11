@@ -15,4 +15,5 @@ echo 'traceअ्kvmअ्run_निकास(cpu->cpuअ्index, run->नि�
 #After fixing rmn2acii
 echo 'trace_kvm_run_exit(cpu->cpu_index, ""run->exit_reason"" "नमस्ते" "aनमस्ते" "नमaस्ते" "नमस्तेa" नमस्ते" "aनमस्ते" "नमaस्ते" "नमस्तेa); SIG_DFL नमस्ते" aनमस्ते नमaस्ते नमस्तेa' | iconv -futf8 -tutf16 | uni2acii | acii2rmn | acii2rmn | rmn2acii | rmn2acii | acii2uni | iconv -futf16 -tutf8
 
-
+---------------
+find $(pwd) -type f | grep -v '\.test$\|\.uhin$\|\.c$\|\.h$\|\.bmp$\|\.svg$\|\.png$' | awk -F. '{print $NF}' | xargs -n1 basename | sort -u >file_types
