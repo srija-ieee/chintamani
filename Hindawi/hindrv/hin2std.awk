@@ -51,31 +51,31 @@ END	{
 		if (lc > 0)
 		{
 			if (cc=="praa_tha>")
-				system("cat tempfil012345.temphin | tail +2 | h2b > hin.std");
+				system("cat tempfil012345.temphin | h2b | acii2hin > hin.std");
 			else if (cc=="praa_thamika>")
-				system("cat tempfil012345.temphin | tail +2 | h2b > hin.std");
+				system("cat tempfil012345.temphin | h2b | acii2hin > hin.std");
 			else if (cc=="guru>")
-				system("cat tempfil012345.temphin | tail +2 | h2c > hin.std");
+				system("cat tempfil012345.temphin | h2c | acii2hin > hin.std");
 			else if (cc=="guroo>")
-				system("cat tempfil012345.temphin | tail +2 | h2c > hin.std");
+				system("cat tempfil012345.temphin | h2c | acii2hin > hin.std");
 			else if (cc=="shrae_nnee>")
-				system("cat tempfil012345.temphin | tail +2 | h2cpp > hin.std");
+				system("cat tempfil012345.temphin | h2cpp | acii2hin > hin.std");
 			else if (cc=="shrae_nneeba_d_dha>")
-				system("cat tempfil012345.temphin | tail +2 | h2cpp > hin.std");
+				system("cat tempfil012345.temphin | h2cpp | acii2hin > hin.std");
 			else if (cc=="shab_da>")
-				system("cat tempfil012345.temphin | tail +2 | h2l > hin.std");
+				system("cat tempfil012345.temphin | h2l | acii2hin > hin.std");
                         else if (cc=="soochee>")
-                                system("cat tempfil012345.temphin | tail +2 | h2py > hin.std");
+                                system("cat tempfil012345.temphin | h2py | acii2hin > hin.std");
 			else if (cc=="wyaaka>")
-				system("cat tempfil012345.temphin | tail +2 | h2yacc > hin.std");
+				system("cat tempfil012345.temphin | h2yacc | acii2hin > hin.std");
 			else if (cc=="ya_m_tra>")
-				system("cat tempfil012345.temphin | tail +2 | h2y > hin.std");
+				system("cat tempfil012345.temphin | h2y | acii2hin > hin.std");
 			else if (cc=="yaa_m_trika>")
-				system("cat tempfil012345.temphin | tail +2 | h2y > hin.std");
+				system("cat tempfil012345.temphin | h2y | acii2hin > hin.std");
 			else if (cc=="roaboata>")
-				system("(echo Not supported as yet. Raise ECR if needed; cat tempfil012345.temphin > hin.std");
+				system("(echo Not supported as yet. Raise ECR if needed; cat tempfil012345.temphin | acii2hin > hin.std");
 			else if (cc=="k_ri_trima>")
-				system("cat tempfil012345.temphin | tail +2 | h2j > hin.std");
+				system("cat tempfil012345.temphin | h2j | acii2hin > hin.std");
 		}
 		else
 			print "मूल खाता खाली है।"
