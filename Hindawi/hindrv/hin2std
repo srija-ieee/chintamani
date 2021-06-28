@@ -33,5 +33,5 @@
 #Script for Hindawi Indic Programming System Ver. 0.2.0 - hincc driver
 
 #iconv -f utf-16 -t utf-8 $1 | fixuninum | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf | hincc.awk
-cat $1 | fixuninum | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf | hin2std.awk
+cat $1 | fixuninum | sed 's/\\न/\\n/g; s/\%भ/\%f/g; s/\%प/\%d/g;' | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf | hin2std.awk
 
