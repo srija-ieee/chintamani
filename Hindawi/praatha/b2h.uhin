@@ -41,7 +41,7 @@ End of modifications.
 \"("\\\""|[^\"^\n]*)*\"                {printf("%s",yytext);}
  
 rem	{printf("टिप्पणी");}
-CLS	{printf("साफ");}
+cls	{printf("साफ");}
 locate	{printf("स्थान");}
 print	{printf("लिखो");}
 input	{printf("पूछो");}

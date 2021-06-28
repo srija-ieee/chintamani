@@ -33,5 +33,6 @@
 #Script for Hindawi Indic Programming System Ver. 0.2.0 - hincc driver
 
 #iconv -f utf-16 -t utf-8 $1 | fixuninum | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf | hincc.awk
-cat $1 | fixuninum | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf | std2hin.awk
+cat $1 | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf | std2hin.awk
+
 

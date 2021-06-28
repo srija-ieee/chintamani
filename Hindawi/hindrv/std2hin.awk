@@ -51,31 +51,31 @@ END	{
 		if (lc > 0)
 		{
 			if (cc=="praa_tha>")
-				system("cat tempfil012345.temphin | tail +2 | b2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | tr 'A-Z' 'a-z' | b2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="praa_thamika>")
-				system("cat tempfil012345.temphin | tail +2 | b2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | tr 'A-Z' 'a-z' | b2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="guru>")
-				system("cat tempfil012345.temphin | tail +2 | c2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | c2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="guroo>")
-				system("cat tempfil012345.temphin | tail +2 | c2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | c2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="shrae_nnee>")
-				system("cat tempfil012345.temphin | tail +2 | cpp2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | cpp2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="shrae_nneeba_d_dha>")
-				system("cat tempfil012345.temphin | tail +2 | cpp2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | cpp2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="shab_da>")
-				system("cat tempfil012345.temphin | tail +2 | l2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | l2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
                         else if (cc=="soochee>")
-                                system("cat tempfil012345.temphin | tail +2 | py2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+                                system("cat tempfil012345.temphin | py2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="wyaaka>")
-				system("cat tempfil012345.temphin | tail +2 | yacc2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | yacc2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="ya_m_tra>")
-				system("cat tempfil012345.temphin | tail +2 | y2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | y2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="yaa_m_trika>")
-				system("cat tempfil012345.temphin | tail +2 | y2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | y2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="roaboata>")
 				system("(echo Not supported as yet. Raise ECR if needed; cat tempfil012345.temphin  > hin.uhin");
 			else if (cc=="k_ri_trima>")
-				system("cat tempfil012345.temphin | tail +2 | j2h | uni2acii | iconv -futf16 -tutf8 > hin.uhin");
+				system("cat tempfil012345.temphin | j2h | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 		}
 		else
 			print "मूल खाता खाली है।"
