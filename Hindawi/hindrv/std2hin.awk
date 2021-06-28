@@ -78,5 +78,6 @@ END	{
 				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | j2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 		}
 		else
-			print "मूल खाता खाली है।"
+			print "<शैली ???> शैली का उल्लेख पहली पंक्ति में करें - Speciy Shali to enable Hindawi to Standard transpilation"
+			system("cat tempfil012345.temphin");
 	}
