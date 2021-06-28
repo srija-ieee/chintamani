@@ -79,5 +79,4 @@ END	{
 		}
 		else
 			print "शैली का उल्लेख पहली पंक्ति में करें - Speciy Shali to enable Hindawi to Standard transpilation"
-			system("cat tempfil012345.temphin")
 	}
