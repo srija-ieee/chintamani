@@ -51,31 +51,31 @@ END	{
 		if (lc > 0)
 		{
 			if (cc=="praa_tha>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | tr 'A-Z' 'a-z' | b2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | tr 'A-Z' 'a-z' | b2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="praa_thamika>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | tr 'A-Z' 'a-z' | b2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | tr 'A-Z' 'a-z' | b2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="guru>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | c2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | c2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="guroo>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | c2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | c2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="shrae_nnee>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | cpp2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | cpp2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="shrae_nneeba_d_dha>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | cpp2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | cpp2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="shab_da>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | l2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | l2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
                         else if (cc=="soochee>")
-                                system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | py2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+                                system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | py2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="wyaaka>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | yacc2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | yacc2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="ya_m_tra>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | y2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | y2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="yaa_m_trika>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | y2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | y2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 			else if (cc=="roaboata>")
 				system("(echo Not supported as yet. Raise ECR if needed; (echo \"<shailee " cc "\"; cat tempfil012345.temphin  > hin.uhin");
 			else if (cc=="k_ri_trima>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | j2h | sed 's/_/__/g' | rmn2acii | acii2uni | iconv -futf16 -tutf8) > hin.uhin");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | j2h | sed 's/_/__/g') | rmn2acii | acii2uni | iconv -futf16 -tutf8 > hin.uhin");
 		}
 		else
 			print "मूल खाता खाली है।"
