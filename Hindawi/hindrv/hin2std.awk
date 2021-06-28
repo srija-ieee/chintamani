@@ -51,31 +51,31 @@ END	{
 		if (lc > 0)
 		{
 			if (cc=="praa_tha>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2b | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2b | acii2hin) > hin.std");
 			else if (cc=="praa_thamika>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2b | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2b | acii2hin) > hin.std");
 			else if (cc=="guru>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2c | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2c | acii2hin) > hin.std");
 			else if (cc=="guroo>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2c | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2c | acii2hin) > hin.std");
 			else if (cc=="shrae_nnee>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2cpp | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2cpp | acii2hin) > hin.std");
 			else if (cc=="shrae_nneeba_d_dha>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2cpp | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2cpp | acii2hin) > hin.std");
 			else if (cc=="shab_da>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2l | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2l | acii2hin) > hin.std");
                         else if (cc=="soochee>")
-                                system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2py | acii2pcf) > hin.std");
+                                system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2py | acii2hin) > hin.std");
 			else if (cc=="wyaaka>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2yacc | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2yacc | acii2hin) > hin.std");
 			else if (cc=="ya_m_tra>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2y | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2y | acii2hin) > hin.std");
 			else if (cc=="yaa_m_trika>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2y | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2y | acii2hin) > hin.std");
 			else if (cc=="roaboata>")
-				system("(echo Not supported as yet. Raise ECR if needed; echo \"<shailee " cc "\"; cat tempfil012345.temphin | acii2pcf) > hin.std");
+				system("(echo Not supported as yet. Raise ECR if needed; echo \"<shailee " cc "\"; cat tempfil012345.temphin | acii2hin) > hin.std");
 			else if (cc=="k_ri_trima>")
-				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2j | acii2pcf) > hin.std");
+				system("(echo \"<shailee " cc "\"; cat tempfil012345.temphin | h2j | acii2hin) > hin.std");
 		}
 		else
 			print "शैली का उल्लेख पहली पंक्ति में करें - Speciy Shali to enable Hindawi to Standard transpilation"
