@@ -92,7 +92,7 @@ main (int argc, char *argv[])
 	break;
 
       if (t1 == 255 && t2 == 254)
-	continue;		/*eat the control */
+	continue;		/*eat the byte order control */
 
       if (t1 == 13 && t2 == 0)
 	continue;		/*eat cr */

@@ -130,9 +130,20 @@ matra (char *tok)
 	    level1 (tok);
 	    break;
 	  case 'e':
-	    strcat (msg, lookup ("^ae"));
-	    tok++;
+	    tok++; //^ae or ^aee
+	    /*strcat (msg, lookup ("^ae"));
 	    level1 (tok);
+	    break;*/
+            switch (tok[0])
+      	    {
+		  case 'e':
+		    strcat (msg, lookup ("^aee"));
+		    level1 (++tok);
+		    break;
+		  default:
+		    strcat (msg, lookup ("^ae"));
+		    level1 (tok);
+	    }
 	    break;
 	  case 'i':
 	    strcat (msg, lookup ("^ai"));
@@ -363,9 +374,20 @@ int level2c (char *tok)
 	    level1 (tok);
 	    break;
 	  case 'e':
-	    strcat (msg, lookup ("_ae"));
-	    tok++;
+	    tok++; //_ae or _aee
+	    /*strcat (msg, lookup ("_ae"));
 	    level1 (tok);
+	    break;*/
+            switch (tok[0])
+      	    {
+		  case 'e':
+		    strcat (msg, lookup ("_aee"));
+		    level1 (++tok);
+		    break;
+		  default:
+		    strcat (msg, lookup ("_ae"));
+		    level1 (tok);
+	    }
 	    break;
 	  case 'i':
 	    strcat (msg, lookup ("_ai"));

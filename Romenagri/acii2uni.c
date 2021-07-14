@@ -77,6 +77,7 @@ main (int argc, char *argv[])
 	}
     }
 
+  //byte order marker for utf16
   fputc (255, fout);
   fputc (254, fout);
   while (!feof (fin))
@@ -88,7 +89,7 @@ main (int argc, char *argv[])
 	{
 	  fputc (13, fout);
 	  fputc (0, fout);
-	  fputc (10, fout);
+	  fputc (10, fout); //hmm... remove this and trust 'dos2unix'?
 	  fputc (0, fout);
 	  continue;
 	}

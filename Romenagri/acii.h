@@ -42,7 +42,7 @@ End of modifications.
 
 #ifndef __ACII_H__
 #define __ACII_H__
-#define ACII_LEN 79
+#define ACII_LEN 81
 
 #ifdef __cplusplus
    extern "C" {
@@ -68,9 +68,11 @@ static char *acii_chrt[ACII_LEN][2]=
 {"^oo",  "Þ"},
 {"_ri",  "ª"},
 {"^_ri", "ß"},
-{"_ae",  "¬"},
-{"^ae",  "á"},
-{"_ai",  "­"},
+{"_ae",  "«"},
+{"^ae",  "à"},
+{"_aee", "¬"},
+{"^aee", "á"},
+{"_ai",  "­"},  //\xAC :)
 {"^ai",  "â"},
 {"_oa",  "°"},
 {"^oa",  "å"},
@@ -130,7 +132,7 @@ static char *acii_chrt[ACII_LEN][2]=
 {"shra", "ÕèÏ"},
 {"_jza", "€"}, // \u0979 placed at \x80
 {"_nza","Ç"},
-{"_s","ë"} //Avagraha
+{"_3","ë"} //Avagraha
 };
 
 #ifdef __cplusplus
