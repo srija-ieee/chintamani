@@ -51,12 +51,12 @@ char *
 lookup (char *key)
 {
   int i;
-  for (i = 0; i < 74; i++)
+  for (i = 0; i < ACII_LEN; i++)
     {
       if (strcmp (acii_chrt[i][0], key) == 0)
 	return acii_chrt[i][1];
     }
-  return NULL;
+  return NULL; // returning NULL here causes seg fault. TBD - fix architecture
 }
 
 int
@@ -161,8 +161,12 @@ matra (char *tok)
   return 1;
 }
 
-int
-level2a (char *tok)
+//Constant attached matra evaluation
+//Schwa deletion is not supported for phonetic accuracy
+//e.g. if at the end of the token then halant is appended
+//else - rest of the token is dropped to level 1
+//Note: Level 1 corresponds to first set
+int level2a (char *tok)
 {
   if (strlen (tok) < 1)
     {
@@ -179,8 +183,7 @@ level2a (char *tok)
   return 1;
 }
 
-int
-level2b (char *tok, char *lk)
+int level2b (char *tok, char *lk)
 {
   char lup[7];
   strcpy (lup, lk);
@@ -212,8 +215,8 @@ level2b (char *tok, char *lk)
   return 1;
 }
 
-int
-level2c (char *tok)
+//Process homophones
+int level2c (char *tok)
 {
   if (strlen (tok) < 1)
     {
@@ -222,6 +225,11 @@ level2c (char *tok)
     }
   switch (tok[0])
     {
+    case 's': //avagraha _s -- no schwa / pictographic... TBD phonetic rules
+      strcat (msg, lookup ("_s"));
+      tok++;
+      level1 (tok);
+      break;
     case 'u':
       strcat (msg, lookup ("_u"));
       tok++;
@@ -307,6 +315,10 @@ level2c (char *tok)
 	  strcat (msg, lookup ("_nga"));
 	  level2a (++tok);
 	  break;
+	case 'z':
+	  strcat (msg, lookup ("_nza"));
+	  level2a (++tok);
+	  break;
 	default:
 	  strcat (msg, c2s (tok[0]));
 	  level1 (++tok);
@@ -375,6 +387,26 @@ level2c (char *tok)
 	    level1 (++tok);
 	  };
       break;
+    case 'j':
+      tok++;
+      switch (tok[0])
+	{
+	/*case 'a':
+	  strcat (msg, lookup ("_na"));
+	  tok++;
+	  level1 (tok);
+	  break;*/
+	case 'z':
+	  strcat (msg, lookup ("_jza"));
+	  level2a (++tok);
+	  break;
+	default:
+	  strcat (msg, c2s (tok[0]));
+	  level1 (++tok);
+	};
+      break;
+      	
+      
     default:
       strcat (msg, c2s (tok[0]));
       level1 (++tok);
@@ -473,3 +505,4 @@ rmn2acii (char *tok)
   level1 (tok);
   return msg;
 }
+

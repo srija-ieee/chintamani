@@ -45,7 +45,7 @@ acii2rmn (char *tok)
   for (i = 0; i < strlen (tok); i++)
     {
       fnd = 0;
-      for (j = 0; j < 76; j++)
+      for (j = 0; j < ACII_LEN; j++)
 	{
 	  if (tok[i] == *(acii_chrt[j][1]))
 	    {

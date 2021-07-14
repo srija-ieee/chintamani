@@ -1,0 +1,410 @@
+
+_hajzza_ha _ulamakzaala_ai _ukhza_taszaasza_i_ai wa_ha_i ba_hzaaja_ai lamaraaja_ae_ai khzaba_ira phza_i majaala_haa
+_hzaasauba
+mana wa_ika_iba_i_dayyaa _ulamausau_ae_ai _ula_hzara_ai
+_ijzza_haba _aala_aa _ula_tanakzala
+_ijzza_haba _aala_aa _ulaba_hzaszza
+"e_Ambox" "e_glass" "e_question"."e_svg"
+_ta_aer=phza _aela_aa _tzara_ikza_ai _ula_tayaamala ma_ae _hajzza_ha _ulamasa_aala_ai mana _aajala _aajzaala_ai _hajzzaa _ulakzaalaba._hajzza_ha _ulamakzaala_ai ba_hzaaja_ai lamaraaja_ae_ai khzaba_ira makhza_tasza phza_i majaala_haa. _iraja_aa mana _ulamakhza_tasza_ina phza_i majaala_haa maraaja_ae_ta_haa wa_ta_tzau_ira_haa. (_aabara_ila 2019)
+_hzaasauba ma_hzamaula.
+"e_DM" "e_IBM" "e_S"360."e_jpg"
+"e_Columbia" "e_Supercomputer" - "e_NASA" "e_Advanced" "e_Supercomputing" "e_Facility"."e_jpg"
+"e_Intertec" "e_Superbrain"."e_jpg"
+"e_Dell" "e_PowerEdge" "e_Servers"."e_jpg"
+2010-01-26-"e_technikkrempel"-"e_by"-"e_RalfR"-05."e_jpg"
+"e_Thinking" "e_Machines" "e_Connection" "e_Machine" "e_CM"-5 "e_Frostburg" 2."e_jpg"
+_ila_haasauba
+
+(baala_aanajala_ijza_i_ai: "e_Computer") _hau _aala_ai _aalaka_tarauna_i_ai la_haa kzaabala_i_ai _usa_takzabaala _ulabayyaanaa_ta wamayaalaja_ta_haa _aala_aa ma_aelaumaa_ta jzzaa_ta kza_ima_ai . kamaa _ikhzajzana_haa phza_i wasaaya_tza _takhzajza_ina makhza_talaphza_ai waphza_i _ulagzaalaba _ikauna kzaa_daraa"e_K" _aela_aa _tabaa_dala _hajzza_ha _ulan_aaya"e_P"ja waalama_aelaumaa_ta ma_ae _aaja_hajza_ai _aakhzara_aa ma_tawaaphzakza_ai wama_ta_tzaura_ha. wa_tasa_ta_tza_i_ae _aasara_ae _ula_hzawaasa_iba phza_i _aumanaa _hajzzaa _ulakzayyaama bamayaa_ta malayyaaraa_ta _ula_aemalayyaa_ta _ula_hzasaaba_i_ai waalamana_tzakza_i_ai phza_i szzawaana"e_M" kzala_ila_ai. wa_tashagzala _ula_hzawaasa_iba baramajayyaa_ta khzaasza_ai _tasama_aa _aana_jzzama_ai _ula_tashagza_ila phzamana _dauna_haa _ikauna _ula_hzaasauba kza_tza_ae_ai jaama_da_ai walaa phzaaya_da_ai mana_haa wa_taba_ina _aana_jzzama_ai _ula_tashagza_ila lala_hzaasauba ka_iphza_i_ai _tanaphza_ijzza _ulama_haama kamaa _aana_haa phza_i _ulagzaalaba _tauphzara ba_iya_ai lalamabaramaja_ina la_i_tzau=rawaa _aela_i_ha _ta_tzaba_ikzaa_ta_hama. _aana _hajzzaa _ula_ta_aera_iphza _iba_i=na _ulakhza_tza_aa _ulashaaya_ae ba_ina _ulanaasa mana _aana _ula_hzawaasa_iba phzakza_tza _ha_i _talaka _ula_ta_i _ta_aemala _ta_hza_ta ba_iya_ai wa_ina_daujza wamaaka_ina_tausha wala_inakasa.
+
+_tanakzasama makaunaa_ta _ula_hzaasauba _aala_aa kzasama_ina raya_isa_i_ina:
+
+    _ula_ae_taa_da
+    _ulabaramajayyaa_ta _ulamashagzala_ai la_ha
+
+wa_inakzasama _ula_ae_taa_da _ulaszalaba lala_hzaasauba _aala_aa khzamasa _taszana_iphzaa_ta raya_isa_ai:
+
+    _aaja_hajza_ai _ula_aa_dakhzaala
+    _ulamayaalaja_ai
+    _aaja_hajza_ai _ula_aakhzaraaja
+    wasaaya_tza _ula_takhzajza_ina
+    _aaja_hajza_ai _ulaa_taszaala
+
+phza_i _hza_ina _tanakzasama _ulabaramajayyaa_ta _ula_hzaasauba_i_ai _aala_aa:
+
+    _aana_jzzama_ai _ula_tashagza_ila
+    _ula_t_tza"e_R"ba_ikzaa_ta
+
+
+
+_ta_ta_ae_da_da _aanawaa_ae _ula_hzawaasa_iba mana _hza_iszza _tzara_ikza_ai _aemala_haa wa_hzajama_haa baala_aa_jzaaphza_ai _aala_aa sara_ae_ta_haa phza_aawaayala _ula_hzawaasa_iba _ula_aalaka_tarauna_i_ai kaana_ta ba_hzajama gzaraphza_ai kaba_ira_ai wa_tasa_ta_halaka _tzaakza_ai mamaaszzala_ai lamaa _isa_ta_halaka_ha ba_jza_ae_ai mayaa_ta mana _ula_hzawaasa_iba _ulashakhzasza_i=_ai _ula_auma.
+
+kamaa _aana _ulasanawaa_ta _ula_aakhza_ira_ai sha_ha_da_ta _unakhzaphzaa_jzaa"e_K" phza_i _takaala_iphza szanaa_ae_ai _ulabana_i_ai _ulaszalaba_ai _aala_aa _ula_hza_da _ulajzza_i _aaszaba_hza_ta ma_ae_ha _ula_hzawaasa_iba _ulashakhzasza_i_ai sala_ae_ai mana_tashara_ai bashakala kaba_ira. walakza_da _tausa_ae_ta _ta_tzaba_ikzaa_ta _ula_hzawaasa_iba phza_i makhza_talaphza _ulamajaalaa_ta waala_aaja_hajza_ai phza_i wakza_tanaa _ula_hzaala_i phzaszana_ae_ta _ulasaa_ae_ai _ulajzzaka_i_ai wa_tzabakza_ta _aana_jzzama_ai _ulamalaa_hza_ai _ula_aalaka_tarauna_i_ai bashakala waasa_ae _aena _tzara_ikza na_jzzaama _ula_tamau_jza_ae _ulayaalama_i wa_aaszaba_hza_ta baraamaja_ha wa_aaja_hajza_ta_ha phza_i ma_tana_oula _ulajama_i_ae kamaa _aana kaszza_ira"e_K"^aa mana rajaala _ula_aa_aemaala _i_ha_tamauna ba_ta_tzaba_ikza_haa phza_i _aa_aemaala_hama _ula_tajaara_i_ai la_takzala_ila _ula_aa_i_da_i _ulayaamala_ai wa_takhzaphza_i_jza _takalaphza_ai _ula_aana_taaja. wa_ina_jzzara _ulamaja_tama_ae _aala_aa _ula_hzaasauba _ulashakhzasza_i -wana_jzza_ira_ha _ulama_tanakzala _ula_hzaasauba _ulama_hzamaula- _aela_aa _aana_hamaa ramajza_i _aeszara _ulama_aelaumaa_ta phza_hamaa maa _iphzakara ba_ha ma_ae_jzzama _ulanaasa _aena_da _ula_hza_da_iszza _aena _ula_hzaasauba. wama_ae _hajzzaa phza_aakaszzara _aashakaala _ula_hzaasauba _usa_takhza_daama"e_K"^aa _ula_auma _ha_i _ula_hzawaasa_iba _ulama_jzama=na_ai wa_ha_i _ula_hzawaasa_iba _ulama_jzamana_ai phza_i _aaja_hajza_ai szagza_ira_ai wabasa_i_tza_ai _tasa_takhza_dama yaa_da_ai lala_ta_hzakama phza_i _aaja_hajza_ai _aakhzara_aa phza_aela_aa saba_ila _ulamaszzaala _imakanaka _aana _taja_da_haa phza_i _aalaa_ta _ta_tara_ou_hza mana _ula_tzaayaraa_ta _ulamakzaa_tala_ai waala_aala_i_ina wa_aalaa_ta _ula_taszau_ira _ularakzama_i_ai _aala_aa la_aeba _ula_aa_tzaphzaala wa_aaja_hajza_ai _ula_ta_hzakama.
+
+laa _imakana _ulakzaula ba_aana _ula_hzaasauba _hau _ukhza_taraa_ae ba_hza_da jzzaa_ta_ha la_aana_ha kaana na_taaja _ulakaszza_ira mana _ulaaba_takaaraa_ta _ula_aelama_i_ai waala_ta_tzaba_ikzaa_ta _ularayyaa_jza_i_ai. _ula_hzawaasa_iba ma_tanau_ae_ai phza_i _ulawaakza_ae wa_tzabakza"e_K"^aa laphzara_jza _tasharasha phza_i _aala_ai _tauranagza phza_aana _hzaasauba"e_K"^aa la_ha kza_dara_ai jzzaa_ta _hza_da manakhzaphza_jza _ikauna kzaa_dara"e_K"^aa _aela_aa _aanajaajza _ulama_haama _ulakhzaasza_ai ba_aa_i _hzaasauba _aakhzara ba_da_haa"e_K" mana _ulamasaa_ae_da _ularakzama_i _ulashakhzasza_i _aala_aa _ula_hzaasauba _ulaphzaayakza _tzaalamaa _aana _ulaukza_ta wasa_ae_ai _ulajzzaakara_ai la_isa_ta phza_i _ulaa_ae_tabaara. lajzzalaka phza_aana _ula_taszama_imaa_ta _ulama_tamaaszzala_ai mana _ula_hzaasauba mana _ulamamakana _aana _ta_jzaba_tza mana _aajala ma_haama _ta_tara_ou_hza ba_ina mayaalaja_ai _hzasaabaa_ta mau_jzzaphza_i _ulasharakaa_ta waala_ta_hzakama phza_i _ulamarakabaa_ta _ulaphza_jzaaya_i_ai ba_dauna _tzayyaara. wabasababa _ula_ta_tzaura _ula_takzana_i phza_aana _ula_hzawaasa_iba _ula_hza_da_iszza_ai _takauna bashakala jabara_i _aakaszzara kza_dara_ai mana _talaka _ula_ta_i mana _ula_aajayyaala _ulasaabakza_ai wa_ha_i _jzzaa_hara_ai mauszauphza_ai wamasharau_hza_ai jajzayayyaa phza_i kzaanauna maura.
+ma_hza_tauyyaa_ta
+
+    1 _aaszala _ula_tasama_i_ai
+    2 phzawaaya_da _ula_hzaasauba
+    3 _taara_ikhza _ula_hzaasauba
+        3.1 _aaula _hzaasauba ma_ikaana_ika_i
+        3.2 _aaula _hzaasauba _tajaara_i
+    4 _aaula _hzaasauba phza_i _ulayaalama
+        4.1 _aaula _hzaasauba ma_ikaana_ika_i
+        4.2 _aaula _hzaasauba _tajaara_i
+        4.3 _aaula _hzaasauba _ikhzajza"e_P"=na _ulabaraamaja
+    5 ka_iphza _ta_aemala _ula_hzawaasa_iba ?
+        5.1 _aala_i_ai _aemala _ula_hzaasauba
+    6 _aaja_hajza_ai _ula_aa_dakhzaala waala_aakhzaraaja
+    7 _ulabaraamaja
+    8 _ulamaka_tabaa_ta wa_aana_jzzama_ai _ula_tashagza_ila
+    9 makaunaa_ta _ula_hzaasauba
+    10 _aanawaa_ae _ula_hzawaasa_iba
+        10.1 _aanawaa_ae phzara_ae_i_ai
+    11 _ulabaramaja_i_ai
+    12 _una_jzzara _aa_i_jza"e_K"^aa
+    13 _ulamaraaja_ae
+
+_aaszala _ula_tasama_i_ai
+_aa_tzalakza shaarala baabaaja kalama_ai ""computer"" _aela_aa _ulashakhzasza _ulajzza_i _i_dakhzala _ulabayyaanaa_ta _aala_aa _ula_hzaasauba waphza_imaa ba_ae_da _aa_tzalakza_ta _ulakalama_ai _aela_aa _ula_aala_ai naphzasa_haa. phza_imaa _aauja_da_ta kalama_ai «_hzaasaubajha ka_tarajama_ai lalaphza_jzza_ai _ula_aanajala_ijza_i_ai ""computer"" wajzzalaka la_aana _hajzza_ha _ulakalama_ai masha_takza_ai mana _ulaphza_aela "e_compute" _ula_ta_i _ta_aena_i _i_hzasaba wa_i_jzaaphza phza_i _ulalagza_ai _ula_aanakala_ijza_i_ai waala_hzaraphza_ina "e_er" phza_i _aakhzara ba_ae_jza _ula_aaphzayaala la_ta_hzaula_haa _aala_aa _usama phzaa_aela phza_taszaba_hza _hzaasaba _aau _hzaasauba. wajzzalaka la_isa gzara_ibaa"e_K" la_aana _ula_hzaasauba mabana_i _aela_aa _aana _ikzauma bajama_i_ae _aemalayyaa_ta_ha _aela_aa shakala _hzasaabaa_ta: jama_ae _aau _tzara_hza _aau _jzaraba _aau kzasama_ai baasa_takhza_daama na_jzzaama _ula_ae_da _ulaszzanaaya_i. maszzaala la_aera_jza szaura_ai: _ikzauma ba_tajajza_i _ulamasa_aala_ai la_aajajzaa _aaszagzara wa_ha_i _ulanakzaa_tza ("e_pixel") kala nakza_tza_ai _ha_i _aebaara_ai _aena launa wamau_jza_ae _hajzza_ha _ulanakza_tza_ai baalanasaba_ai lalaszaura_ai _hau ma_hzaszala_ai szzalaaszza_ai _aalawaana: _ula_aajzarakza _ula_aakhza_jzara waala_aa_hzamara kala launa _imakana _tamaszza_ila _daraja_ta_ai bakza_ima_ai (_ta_tara_ou_hza ba_ina 0 wa255 maszzalaa"e_K") _aajzzaa"e_K" _ulalauna _hau rakzama baalanasaba_ai lala_hzaasaba (maszzalaa"e_K" _ula_aaba_i_jza: 255,255,255) wa_aena_damaa _ira_i_da _aa_jzza_haara _hajzzaa _ulalauna _irasala _ulakza_ima_ai _ulamawaaphzakza_ai laba_tzaakza_ai _ularasaumayyaa_ta. wa_aaszala kalama_ai _hzaasauba phza_i _ulalagza_ai mana _ulamasza_dara _hzasaba _aela_aa wajzana _usama _ula_aala_ai «phaa_aau"e_R"lajha.
+phzawaaya_da _ula_hzaasauba
+
+_aa_hama_i_ai _ula_hzaasauba _takamana phza_i _tabasa_i_tza_ha lalakaszza_ira mana _ula_aa_aemaala _ulasza_aeba_ai _aau _ula_ta_i _ta_hza_taaja wakza_taa"e_K" _tzau_ilaa"e_K" la_aa_tamaama_haa kaala_aa_aemaala _ulaszanaa_ae_i_ai waala_tajaara_i_ai waala_aa_daaraa_ta _ula_hzakauma_i_ai waalajaamayaa_ta waalamayaa_ha_da phza_hau wasa_ila_ai jzzaa_ta kza_dara_ai yaala_i_ai phza_i _hzala _ulamasaayala _ularakzama_i_ai waala_dakza_ai phza_i _hzaphza_jzza waasa_tarajaa_ae _ulama_aelaumaa_ta wa_taszama_ima _ulauszzaayakza waalaszaura wa_aa_jzza_haara_haa wa_aemalayyaa_ta _ulaba_hzaszza _aena _ulama_aelaumaa_ta wajama_ae_haa.
+_taara_ikhza _ula_hzaasauba
+
+    "e_Crystal" "e_Clear" "e_app" "e_kdict"."e_png"makzaala_ai maphzaszala_ai: _taara_ikhza _ae_taa_da _ula_hzaasauba
+
+_i_ae_tabara _ula_hzaasauba _aa_inayyaaka _ulajzza_i ba_da_aa _ula_aemala ba_ha phza_i yaama 1946 _aaula ja_haajza _hzaasauba _aalaka_tarauna_i lala_aagzaraa_jza _ulayaama_ai.
+
+_taara_ikhza _ta_tzaura _ae_taa_da _ula_hzaasauba _hau sajala masa_tamara mana _ula_aa_tajaa_ha na_hzau ja_aela _ula_hzawaasaba _aasara_ae wa_aarakhzasza wakzaa_dara_ai _aela_aa _takhzajza_ina bayyaanaa_ta _aakaszzara. kzabala wajau_da _ula_hzaasauba ma_ta_ae_da_da _ula_aagzaraa_jza kaana _ula_aanasaana _ikzauma bama_ae_jzzama _ula_aemalayyaa_ta _ula_hzasaaba_i_ai banaphzasa_ha _aala_aa _aana _jzza_hara_ta _ula_aala_ai _ula_hzaasaba_ai la_tasaa_ae_da phza_i _ula_aemalayyaa_ta _ula_hzasaaba_i_ai. walaa jzaala_ta _ula_aalaa_ta _ula_hzaasaba_ai _ta_ta_tzaura _aalaa _aana _ula_hzaasauba phza_i_ha ma_ijza_ai _aa_jzaaphza_i_ai _aena_haa wa_ha_i _aana_ha ma_ta_ae_da_da _ulaasa_ta_aemaalaa_ta wala_isa phzakza_tza la_hzasaaba _ula_aarakzaama. walakza_da mara _ae_taa_da _ula_hzaasauba ba_ta_tzauraa_ta kaba_ira_ai manajzza _ula_aaraba_ae_inaa_ta _hza_ta_aa _aaszaba_hza _aasaasaa"e_K" lakaszza_ira mana _ulaasa_takhza_daamaa_ta _ula_aakhzara_aa gza_ira _ula_hzasaaba kaala_aa_tama_ta_ai waala_aa_taszaalaa_ta waala_ta_hzakama waala_ta_aela_ima.
+
+_tauja_da _aamaszzala_ai _aela_aa _aaja_hajza_ai _ula_hzasaaba _ulaba_daaya_i_ai waala_ta_i _tamaszzala _ula_aasalaaphza _ula_aawaayala lala_hzaasauba mana_haa _ulama_ae_daa_da wa_aala_i_ai _aana_ta_ika_iszza_iraa wa_hau ja_haajza _aunaana_i kza_da_ima kaana _isa_takhza_dama la_hzasaaba _hzarakaa_ta _ulakawaakaba waala_ta_aara_ikhza manajzza sana_ai 87 kza.ma. _takzara_ibaa"e_K". sha_ha_da_ta na_haa_i_ai _ula_aeszaura _ulausa_tza_aa nashaa_tzaa"e_K" _aauraubayyaa"e_K" phza_i _aelama_i _ularayyaa_jzayyaa_ta waala_hana_dasa_ai wakaana wa_ila_halama sha_ikaara_da _ula_aaula mana _ae_da_da mana _ula_aelamaa _ula_aaurauba_i_ina _ulajzza_i _aanashaya _aala_ai _hzaasaba_ai ma_ikaana_ika_i_ai. _dauna _ulama_ae_daa_da _aela_aa _aana_ha _hzaasauba ba_daaya_i wajzzalaka la_aana_ha kaana _ishaba_ha _ula_aala_ai _ula_hzaasaba_ai phza_i _ulamaa_jza_i. waphza_i yaama 1801 kzaama jaujza_iphza maara_i jaakaara ba_aemala _ta_hzasa_ina lala_aashakaala _ulanaula_i_ai _ulamaujau_da_ai waala_ta_i _tasa_takhza_dama majamau_ae_ai ma_ta_taala_i_ai mana _ulaba_tzaakzaa_ta _ulaurakza_i_ai _ulamaszzakzauba_ai waka_aana_haa baranaamaja lanasaja _aashakaala ma_aekza_da_ai. waalana_ta_ija_ai kaana_ta _aana naula jaakawaara_da lama _i_tama _u_ae_tabaara_ha _hzaasauba"e_K"^aa _hzakza_ikza_i"e_K"^aa walakana_ha kaana khza_tzau_ai _haama_ai phza_i _ta_tzau_ira _ula_hzawaasa_iba _ularakzama_i_ai _ula_hza_da_iszza_ai. kaana _tashaaralajza baabaaja _aaula mana phzakara waszamama _hzaasauba"e_K"^aa mabaramaja"e_K"^aa baalakaamala wajzzalaka phza_i ba_daa_i_ai yaama 1820 walakana basababa majamau_ae_ai mana _ula_hza_dau_da _ula_takzana_i_ai phza_i jzzalaka _ulaukza_ta waalama_hza_dau_da_i_ai _ulamaala_i_ai _aa_jzaaphza_ai _aala_aa _ae_dama _ulakza_dara_ai _aela_aa _hzala mashakala_ai _ula_aaszalaa_hza gza_ira _ulaja_i_da phza_i _taszama_ima_ha phza_aana _ulaja_haajza lama _i_tama banaa_ha_ha phza_aelayyaa"e_K" phza_i _hzayyaa_ta_ha. _jzza_hara_ta _ae_da_da mana _ula_takzanayyaa_ta _ula_ta_i _aaszzaba_ta_ta phzaaya_da_ta_haa laa_hzakza"e_K"^aa phza_i _ula_hzausaba_ai maszzala _ulaba_tzaakza_ai _ulamaszzakzauba_ai wa_aanabauba _ulaszamaama bana_haa_i_ai _ulakzarana _ula_taasa_ae _aeshara wamayaalaja_ai _ulabayyaanaa_ta _aau_taumaa_ta_ikayyaa"e_K" jzzaa_ta _ula_ta_daraja _ulakaba_ira baasa_takhza_daama _ulaba_tzaakzaa_ta _ulamaszzakzauba_ai szana"e_M"_ae_ta baasa_takhza_daama _aalaa_ta ja_daula_ai waala_ta_i szamama_haa _ha_iramaana _haulala_ira_iszza.
+
+_aana najaa_hza _ula_hzawaasa_iba _ulakzau_i_ai waalamara_i_hza_ai ba_da_aa phza_i _ulaszzalaaszza_inayyaa_ta waala_aaraba_ae_inaa_ta mana _ulakzarana _ula_aeshara_ina wa_aa_jza_iphza_ta baala_ta_dara_ija _ulamama_ijzaa_ta _ularaya_isa_i_ai phza_i _ula_hzawaasa_iba _ula_hza_da_iszza_ai maszzala _usa_takhza_daama _ula_aala_ika_taraunayyaa_ta _ularakzama_i_ai (_aakhza_tara_ae ma_ae_jzzama_haa kalau_da shaanauna yaama 1937) waalakza_dara_ai _aela_aa _ulabaramaja_ai ba_tzara_ikza_ai _aakaszzara salaasa_ai. _aana _ta_hza_da_i_da nakza_tza_ai waa_hza_da_ai khzalaala _hajzzaa _ulamashawaara _aela_aa _aana_haa «_aaula _hzaasauba _ula_ika_tarauna_i rakzama_ijha _aamara sza_aeba ja_daa.
+
+mana _ula_aanajaajzaa_ta _ula_aasaasa_i_ai _hzaasauba ""¥ÂÚÆç× Ê¦Ï¦"" "e_Atanasoff"-"e_Berry" 1937 wa_ha_i _aala_ai jzzaa_ta gzara_jza makhzaszasza waala_ta_i kaana_ta _tasa_takhza_dama _ula_hzausaba_ai _ulamakzaa_da_ai baalaszamaamaa_ta (_aanabauba _ulaszamaama) waala_aarakzaama _ulaszzanaaya_i_ai waalajzzaakara_ai _ulamaja_da_da_ai. _hzaasaba kaulausasa _ulabara_i_tzaana_i _ulasara_i (1944) waalajzza_i kaana _imalaka kza_dara_ai ma_hza_dau_da_ai _aela_aa _ulabaramaja_ai walakana_ha kza_dama ja_haajza"e_K"^aa _isa_takhza_dama _ula_aalaaphza mana _ulaszamaamaa_ta mana _ulamamakana _aana _ikauna mauszzaukzaa wa_aayaa_da_ai baramaja_ta_ha _aalaka_taraunayyaa.""ØÚÏÉéÏÄ ÌÚÏ³ ¨Ñ¥çÑ"" "e_Harvard" "e_Mark" "e_I" 1944 _hzaasauba _aalaka_tarauma_ikaana_ika_i jzzau _ta_daraja kaba_ira wala_da_i_ha kza_dara_ai ma_hza_dau_da_ai _aela_aa _ulabaramaja_ai.
+
+_ila_hzaasauba _ula_aamara_ika_i _ulamabana_i _aela_aa na_jzzaama _ula_ae_da _ula_aeshara_i (1946-_aa_inayyaaka) wakaana _aaula _hzaasauba _aalaka_tarauna_i jzzau _aagzaraa_jza yaama_ai walakana phza_i _ula_aasaasa phza_aana bana_i_ta_ha gza_ira salasa_ai mamaa _i_aena_i _aana _aayaa_da_ai baramaja_ta_ha _aasaasaa _ta_ta_tzalaba _aayaa_da_ai _tausza_ila_ha. wa_aalaa_ta jza_i "e_Z" _ulakhzaasza_ai ba@kaunaraa_da saujza_ha ma_ae _ula_aala_ika_tarauma_ikaana_ika_i "e_Z"3)1941) _ikauna _aaula _aala_ai yaamala_ai _takza_dama ma_ijza_ai _ula_hzasaaba _ula_aau_taumaa_ta_ika_i lala_aarakzaama _ulaszzanaaya_i_ai waalakza_dara_ai _aela_aa _ulabaramaja_ai ba_tzara_ikza_ai _aemala_i_ai wamalaayama_ai.
+
+_aana phzara_ikza _ula_aemala _ulajzza_i kzaama ba_ta_tzau_ira _aa_inayyaaka "e_ENIAC" _aa_daraka _ae_auba ja_haajza_ha wajaa ba_taszama_ima _aakaszzara marauna_ai warau_ae_ai waalajzza_i szaara _i_aeraphza babana_i_ai phzauna nau_imaana (_aau «bana_i_ai _ulabaranaamaja _ulamakhzajzanajha). _aaszaba_hza_ta bana_i_ai _ulabaranaamaja _ulamakhzajzana _uphza_taraa_jzayyaa _ulakzaa_ae_da_ai lakala _ula_hzawaasa_iba _ula_hza_da_iszza_ai. ba_da_aa _ae_da_da mana _ulamashaara_i_ae la_ta_tzau_ira _hzaasauba _i_ae_tama_da _aela_aa bana_i_ai _ulabaranaamaja _ulamakhzajzana phza_i mana_taszaphza _aala_aa _aakhzara _ula_aaraba_ae_inaa_ta mana _ulakzarana _ula_aeshara_ina. _aana _aaula _hzaasauba mana _haulaa _tama _ulaana_ta_haa mana_ha phza_i bara_i_tzaanayyaa. _aaula _hawalaa _ulajzza_i _i_ae_tabara _aaphza_jzala wayaamala kaana maa _i_aeraphza baala_aala_ai _ulamaszagzara_ai _ula_tajara_iba_i_ai ("e_Small"-"e_Scale" "e_Experimental" "e_Machine") walakana "e_EDSAC" rabamaa kaana _aaula nasakhza_ai _aemala_i_ai _tama _ta_tzau_ira_haa.
+
+_aana _taszama_imaa_ta _ula_hzaasauba _ulamakzaa_da ba_aanabauba _ulaszamaama _aaszaba_hza_ta kza_i_da _ulaasa_takhza_daama khzalaala _ulakhzamasa_inaa_ta mana _ulakzarana _ula_aeshara_ina walakana ma_ae _ulaukza_ta _tama _usa_taba_daala_haa baala_hzawaasa_iba _ula_taraanajzasa_taura_i_ai _hza_iszza _aana_haa _aaszagzara wa_aasara_ae wa_aarakhzasza wa_aakaszzara mauszzaukza_i_ai kala jzzalaka _aa_taa_hza la_haa _aana _i_tama _aana_taaja_haa _aela_aa _ulamasa_tau_aa _ula_tajaara_i wajzzalaka phza_i _ulasa_ta_inaa_ta mana _ulakzarana _ula_aeshara_ina. phza_i saba_ae_inaa_ta _ulakzarana _ula_aeshara_ina saa_ae_da _ukhza_tayyaara _takanaulaujayyaa _ula_daayara_ai _ulama_takaamala_ai phza_i _aana_taaja _ula_hzawaasa_iba ba_takalaphza_ai kzala_ila_ai kaaphza_i_ai la_aana _tasama_hza lala_aaphzaraa_da baama_talaaka _hzaasauba shakhzasza_i mana _ula_aanawaa_ae _ulama_aerauphza_ai _hzaalayyaa.
+_aaula _hzaasauba ma_ikaana_ika_i
+
+kzaama _tashaaralajza baabaaja ("e_Charles" "e_Babbage") baszana_ae _aaula ja_haajza _hzaasauba ma_ikaana_ika_i= ("e_mechanical" "e_computer") phza_i _ulayaama 1822ma _hza_iszza _tzau=ra _tashaaralajza ma_hzara=ka _ulaphzarakza ("e_Difference" "e_Engine") _ulajzza_i _tama= _u_ae_tabaara_ha ka_aaula _aala_ai lala_hzausaba_ai _ula_talakzaaya_i_ai ("e_Automatic" "e_Computing" "e_Machine") wakaana ma_hzaraka _ulaphzarakza kzaa_daraa"e_K" _aela_aa _ulakzayyaama ba_ae_da=_ai _aemalayyaa_ta _hzasaaba_i_ai _aela_aa majamau_ae_ai mana _ula_aarakzaama wa_tzabaa_ae_ai _ulana_taayaja _aela_aa nasakhza warakza_i=_ai wa_talakza=_aa baabaaja _ulamasaa_ae_da_ai mana _aa_daa lauphzala_isa ("e_Ada" "e_Lovelace") _ula_ta_i _ta_ae_tabara _aaula mabaramaja_ai laja_haajza _ula_hzaasauba lakana _ulaja_haajza lama _iszala _aala_aa shakala _ulanasakhza=_ai _ulakaamala basababa mashaakala _ula_tamau_ila.
+_aaula _hzaasauba _tajaara_i
+
+_aana_taja_ta sharaka_ai ra_imanaja_tauna raana_da ("e_Remington" "e_Rand") ja_haajza _auna_i phzaaka wana ("e_Univac"1) wakza_da _u_ae_tabara _aaula _hzaasauba _tajaara_i waasa_taula_aa _aela_aa _una_tabaa_ha _ulanaasa _aanajzzaaka _hza_iszza _una_tashara _usa_takhza_daama_ha phza_i _ula_ae_da_i_da mana _ula_aamaakana waalamaraaphzakza _aa_jzaaphza_ai"e_K" _aala_aa _usa_takhza_daama_ha mana kza"e_P"bla sharakaa_ta _ula_ta_aama_ina waalaja_isha _ula_aamara_ika_i wakza_da balagza wajzana _hajzzaa _ulaja_haajza 13154.168 ka_ilaugzaraamaa"e_K" wa_tamaka=na_ta sharaka_ai ra_imanaja_tauna raana_da mana ba_i_ae 46 ja_haajzaa"e_K" mana_ha wabalagza sa_aera _ulaja_haajza _ulawaa_hza_da mala_auna _daulaara _aamara_ika_i=!
+_aaula _hzaasauba phza_i _ulayaalama
+_aaula _hzaasauba ma_ikaana_ika_i
+
+kzaama _tashaaralajza baabaaja ("e_Charles" "e_Babbage") baszana_ae _aaula ja_haajza _hzaasauba ma_ikaana_ika_i= ("e_mechanical" "e_computer") phza_i _ulayaama 1822ma _hza_iszza _tzau=ra _tashaaralajza ma_hzara=ka _ulaphzarakza ("e_Difference" "e_Engine") _ulajzza_i _tama= _u_ae_tabaara_ha ka_aaula _aala_ai lala_hzausaba_ai _ula_talakzaaya_i_ai ("e_Automatic" "e_Computing" "e_Machine") wakaana ma_hzaraka _ulaphzarakza kzaa_daraa"e_K" _aela_aa _ulakzayyaama ba_ae_da=_ai _aemalayyaa_ta _hzasaaba_i_ai _aela_aa majamau_ae_ai mana _ula_aarakzaama wa_tzabaa_ae_ai _ulana_taayaja _aela_aa nasakhza warakza_i=_ai wa_talakza=_aa baabaaja _ulamasaa_ae_da_ai mana _aa_daa lauphzala_isa ("e_Ada" "e_Lovelace") _ula_ta_i _ta_ae_tabara _aaula mabaramaja_ai laja_haajza _ula_hzaasauba lakana _ulaja_haajza lama _iszala _aala_aa shakala _ulanasakhza=_ai _ulakaamala basababa mashaakala _ula_tamau_ila.
+_aaula _hzaasauba _tajaara_i
+
+_aana_taja_ta sharaka_ai ra_imanaja_tauna raana_da ("e_Remington" "e_Rand") ja_haajza _auna_i phzaaka wana ("e_Univac"1) wakza_da _u_ae_tabara _aaula _hzaasauba _tajaara_i waasa_taula_aa _aela_aa _una_tabaa_ha _ulanaasa _aanajzzaaka _hza_iszza _una_tashara _usa_takhza_daama_ha phza_i _ula_ae_da_i_da mana _ula_aamaakana waalamaraaphzakza _aa_jzaaphza_ai"e_K" _aala_aa _usa_takhza_daama_ha mana kza"e_P"bla sharakaa_ta _ula_ta_aama_ina waalaja_isha _ula_aamara_ika_i wakza_da balagza wajzana _hajzzaa _ulaja_haajza 13154.168 ka_ilaugzaraamaa"e_K" wa_tamaka=na_ta sharaka_ai ra_imanaja_tauna raana_da mana ba_i_ae 46 ja_haajzaa"e_K" mana_ha wabalagza sa_aera _ulaja_haajza _ulawaa_hza_da mala_auna _daulaara _aamara_ika_i=!
+_aaula _hzaasauba _ikhzajza"e_P"=na _ulabaraamaja
+
+kzaama phzara_i_dara_ika wa_ilayyaamajza ("e_Frederic" "e_C". "e_Williams") wa_tauma ka_ilabaurana ("e_Tom" "e_Kilburn") babanaa _aaula _hzaasauba rakzama_i _ikhzajza=na _ulabaraamaja wajzzalaka phza_i jaama_ae_ai maanashasa_tara phza_i _ulayaama 1948ma wasama=_i _hajzzaa _ulaja_haajza baasama _ula_tzaphzala ("e_The" "e_Baby") _ulajzza_i _tama _ta_tzau_ira_ha phza_imaa ba_ae_da la_iszaba_hza ja_haajza _hzaasauba kaamala _ula_hzajama _aeraphza baasama maanashasa_tara maaraka ("e_Manchester" "e_Mark") phza_i _ulayaama 1949ma wamaa _ima_ijza_ha _hau wajau_da masaja=la szzanaaya_i _ulamasa_tau_aa ("e_two"-"e_level" "e_registers") lala_takhzajza_ina waala_ta_ae_da_ila kamaa _tama= _aa_jzaaphza_ai _aasa_tzawaana_ai magzanaa_tza_isa_i_ai la_tauphza_ira ja_haajza _takhzajza_ina szzaanau_i _aeshawaaya_i.
+ka_iphza _ta_aemala _ula_hzawaasa_iba ?
+_hzaasauba phza_i saa_ae_ai _i_da.
+
+ba_inamaa _tagza_ira_ta _ula_takzanayyaa_ta _ulamasa_takhza_dama_ai phza_i _ula_hzawaasa_iba baszaura_ai maszza_ira_ai manajzza _jzza_haura _aawaayala _ula_hzawaasa_iba _ula_aalaka_tarauna_i_ai ma_ta_ae_da_da_ai _ula_aagzaraa_jza mana _aaraba_ae_inaa_ta _ulakzarana _ula_aeshara_ina maa jzaala ma_ae_jzzama_haa _isa_takhza_dama bana_i_ai _ulabaranaamaja _ulamakhzajzana (_i_tzalakza _aela_i_haa phza_i ba_ae_jza _ula_aa_hzayyaana bana_i_ai phzauna nau_imaana). _usa_ta_tzaa_ae _ula_taszama_ima ja_aela _ula_hzaasauba _ulayaalama_i _hzakza_ikza_ai jajzayayyaa.
+
+wa_taszaphza _hajzza_ha _ulabana_i_ai _ula_hzaasauba phza_i _aaraba_ae _aakzasaama raya_isa_i_ai:
+
+    wa_hza_da_ai _ula_hzasaaba waalamana_tzakza
+    wa_hza_da_ai _ula_ta_hzakama
+    _ulajzzaakara_ai
+    _aaja_hajza_ai _ula_aa_dakhzaala waala_aakhzaraaja.
+
+wa_hajzza_ha _ula_aajajzaa _ta_taszala baba_ae_jza_haa _aena _tzara_ikza _hzajzama mana _ula_aasalaaka (_tasama_aa aalanawaakzalajha "e_BUS" _aena_damaa _takauna naphzasa _ula_hzajzama_ai _ta_da_aema _aakaszzara mana masaara bayyaanaa_ta) wa_takauna phza_i _ulayaa_da_ai makzaasa_ai bamawakza_ta _aau saa_ae_ai (ma_ae _aana _ula_aa_hza_daaszza _ula_aakhzara_aa _tasa_ta_tza_i_ae _aana _takzau_da _daayara_ai _ula_ta_hzakama).
+
+phzakarayyaa mana _ulamamakana rawa_i_ai jzzaakara_ai _ula_hzaasauba ka_aana_haa kzaayama_ai mana _ulakhzalaayyaa kala khzala_i_ai la_haa _aenawaana marakzama wa_tasa_ta_tza_i_ae _ulakhzala_i_ai _takhzajza_ina kama_i_ai kzala_ila_ai waszzaaba_ta_ai mana _ulama_aelaumaa_ta. _hajzza_ha _ulama_aelaumaa_ta mana _ulamamakana _aana _takauna _aamaa _ta_aela_ima_ai (_aamara) waala_ta_i _takhzabara _ula_hzaasaba bamaa _ijaba _aana _iphza_aela_ha wa_aamaa _aana _takauna bayyaanaa_ta wa_ha_i _ulama_aelaumaa_ta _ula_ta_i _ikzauma _ula_hzaasaba bamayaalaja_ta_haa baasa_takhza_daama _ula_aawaamara _ula_ta_i _tama wa_jza_ae_haa _aela_aa _ulajzzaakara_ai. _aemaumaa _imakana _usa_takhza_daama _aa_i khzala_i_ai la_takhzajza_ina _aamaa _aawaamara _aau bayyaanaa_ta.
+
+wa_hza_da_ai _ula_hzasaaba waalamana_tzakza _ha_i _ta_ae_tabara kzalaba _ula_hzaasauba. wa_ha_i kzaa_dara_ai _aela_aa _tanaphza_ijzza nau_ae_ina mana _ula_aemalayyaa_ta _ula_aasaasa_i_ai.
+
+    _ula_aaula_aa _ha_i _ula_aemalayyaa_ta _ula_hzasaaba_i_ai jama_ae _aau _tzara_hza rakzama_ina sauyyaa. _aana majamau_ae_ai _ula_aemalayyaa_ta _ula_hzasaaba_i_ai kza_da _takauna ma_hza_dau_da_ai ja_daa phza_i _ulawaakza_ae ba_ae_jza _ula_taszama_imaa_ta laa _ta_da_aema _aemala_i_ta_i _ula_jzaraba waalakzasama_ai ba_tzara_ikza_ai mabaashara_ai (_aau_jzaa _aena _ula_da_aema _ulamabaashara _isa_ta_tza_i_ae _ulamasa_takhza_damauna _da_aema _aemala_i_ta_i _ula_jzaraba waalakzasama_ai wajzzalaka mana khzalaala baraamaja _takzauma bamayaalajaa_ta ma_ta_ae_da_da_ai lalajama_ae waala_tzara_hza waala_aarakzaama _ula_aakhzara_aa).
+    _ulakzasama _ulaszzaana_i mana _aemalayyaa_ta wa_hza_da_ai _ula_hzasaaba waalamana_tzakza _ha_i _aemalayyaa_ta _ulamakzaarana_ai ba_aa_dakhzaala rakzama_ina _takzauma _hajzza_ha _ulau_hza_da_ai baala_ta_hzakzakza mana _tasa_ou_i _aau _ae_dama _tasa_ou_i _ularakzama_ina wa_ta_hza_da_i_da _aa_i _ularakzama_ina _hau _ula_aakabara. wa_ha_i _tasama_aa _ula_aemala_i_ai _ulamana_tzakza_i_ai wa_ha_i ma_hama_ai phza_i _ulabaramaja_ai.
+
+wa_ikzauma na_jzzaama _ula_tashagza_ila _ijama_ae makaunaa_ta _ula_hzaasauba ma_ae ba_ae_jza_haa _hza_iszza _ikzauma bakzaraa_ha_ai _ula_aawaamara waalabayyaanaa_ta mana _ulajzzaakara_ai _aau mana _aaja_hajza_ai _ula_aa_dakhzaala waala_aakhzaraaja la_i_tama _tanaphza_i_da_haa mana kzabala _ulamayaalaja. wakajzzalaka phzaka shaphzara_ai _ula_aawaamara ba_tagzajzza_i_ai wa_hza_da_ai _ula_hzasaaba waalamana_tzakza baalama_dakhzalaa_ta _ulasza_hza_i_hza_ai _tzabakzaa lala_aawaamara _hza_iszza _ikhzabara wa_hza_da_ai _ula_hzasaaba waalamana_tzakza baala_aemala_i_ai _ulawaajaba _tanaphza_ijzza_haa _aela_aa _talaka _ulama_dakhzalaa_ta wa_ta_ae_i_da _aarasaala _ulana_taayaja _aala_aa _ulajzzaakara_ai _aau _aala_aa _aaja_hajza_ai _ula_aa_dakhzaala waala_aakhzaraaja.
+
+_i_ae_tabara _ula_ae_daa_da "e_Counter" mana _ulamakaunaa_ta _ularaya_isa_i_ai phza_i na_jzzaama _ula_ta_hzakama waalajzza_i _ikzauma bama_taaba_ae_ai _aenawaana _ula_aamara _ula_hzaala_i phza_i _ulayaa_da_ai _tajza_daa_da kza_ima_ai _ula_aenawaana phza_i kala mara_ai _i_tama phza_i_haa _tanaphza_ijzza _ula_aamara _aalaa _aajzzaa _aashaara _ula_aamara naphzasa_ha _aala_aa _aana _ula_aamara _ula_taala_i _ijaba _aana _ikauna phza_i _aenawaana _aakhzara (jzzalaka _isama_hza lala_hzaasauba ba_tanaphza_ijzza naphzasa _ula_aawaamara ba_tzara_ikza_ai ma_takarara_ai).
+
+ba_da mana szzamaana_inaa_ta _ulakzarana _ula_aeshara_ina szaara kala mana wa_hza_da_ai _ula_hzasaaba waalamana_tzakza wau_hza_da_ai _ula_ta_hzakama (_isamayyaana maja_tamayaana bau_hza_da_ai _ulamayaalaja_ai _ulamarakajza_i_ai)(wa_hza_da_ai mayaalaja_ai marakajza_i_aiaalama_ae_taa_da wajau_da_hamaa phza_i _daayara_ai ma_takaamala_ai waa_hza_da_ai _tasama_aa _ulamayaalaja _ulaszagzara_i (_ilamaa_ikaraubarausa_isaura).
+_aala_i_ai _aemala _ula_hzaasauba
+_hzaasauba kaulaumabayyaa _ulaphzaayakza _ulakhzaasza banaasaa.
+
+_aana _aala_i_ai _aemala _aa_i _hzaasauba phza_i _ula_aasaasa _takauna waa_jza_hza_ai _tamaama"e_K"^aa. phza_i _ulama_ae_taa_da phza_i kala _daura_ai mayaalaja_ai "e_Processing" "e_Circle" _ikzauma _ula_hzaasauba bajalaba _ula_aawaamara waalabayyaanaa_ta mana _ulajzzaakara_ai _ulakhzaasza_ai ba_ha. _i_tama _tanaphza_ijzza _ula_aawaamara _i_tama _takhzajza_ina _ulana_taayaja szzama _i_tama jalaba _ula_aamara _ula_taala_i. _hajzzaa _ula_aajaraa _i_takarara _hza_ta_aa _ta_tama makzaabala_ai _aamara _ula_taukzaphza "e_Halt".
+
+_aana _ula_aawaamara _ula_ta_i _takzauma wa_hza_da_ai _ula_ta_hzakama ba_taphzasa_ira_haa wa_takzauma wa_hza_da_ai _ula_hzasaaba waalamana_tzakza ba_tanaphza_ijzza_haa _ikauna _ae_da_da_haa ma_hza_dau_da wama_hza_da_da_ai ba_dakza_ai wa_takauna _aemalayyaa_ta basa_i_tza_ai ja_daa. baszaphza_ai yaama_ai phza_aana_haa _tana_daraja _jzamana waa_hza_da _aau _aakaszzara mana _aaraba_ae_ai _aakzasaama:
+
+    nakzala bayyaanaa_ta mana makaana laakhzara (maszzaala _aela_aa jzzalaka _aamara «_ikhzabarajha wa_hza_da_ai _ulamayaalaja_ai _ulamarakajza_i_ai _aana «_tanasakhza ma_hza_tauyyaa_ta _ulakhzala_i_ai 5 mana _ulajzzaakara_ai wau_jza_ae _ulanasakhza_ai phza_i _ulakhzala_i_ai 10jha)
+    _tanaphza_ijzza _ula_aemalayyaa_ta _ula_hzasaaba_i_ai waalamana_tzakza_i_ai _aela_aa bayyaanaa_ta (_aela_aa saba_ila _ulamaszzaala «kzama ba_aa_jzaaphza_ai ma_hza_tauyyaa_ta _ulakhzala_i_ai 7 _aala_aa ma_hza_tauyyaa_ta _ulakhzala_i_ai 13 wa_jza_ae _ulanaa_taja phza_i _ulakhzala_i_ai 20jha)
+    _ukhza_tabaara _hzaala_ai _ulabayyaanaa_ta («lau _aana ma_hza_tauyyaa_ta _ulakhzala_i_ai 999 _ha_i 0 phza_aana _ula_aamara _ula_taala_i _ikauna maujau_da phza_i _ulakhzala_i_ai 30jha)
+    _tagza_i_ira _tasalasala _ula_aemalayyaa_ta (_igza_ira _ulamaszzaala _ulasaabakza _tasalasala _ula_aemalayyaa_ta walakana _ula_aawaamara maszzala aalaamara _ula_taala_i _auja_da phza_i _ulakhzala_i_ai 100jha _takauna _aa_i_jzaa kzayyaasa_i_ai).
+
+_aana _ula_aawaamara _takauna mamaszzala_ai maszzala _ulabayyaanaa_ta phza_i szaura_ai shaphzara_ai szzanaaya_i_ai (na_jzzaama lala_ae_da kzaa_ae_da_ta_ha _ularakzama 2). _aela_aa saba_ila _ulamaszzaala _ulashaphzara_ai lanau_ae mana _aanawaa_ae _aemala_i_ai «nasakhzajha phza_i _ulamayaalajaa_ta _ula_dakza_ikza_ai mana nau_ae "e_Intel" "e_x"86 _ha_i 10110000. _aana _ula_aamara _ulajajzaya_i _ikauna ma_ae_da"e_K"^aa ba_hza_iszza _aana _hzaasauba"e_K"^aa ma_ae_ina"e_K"^aa _i_da_aema maa _i_aeraphza balagza_ai _ula_aala_ai. _aana _usa_takhza_daama lagza_ai _ula_aala_ai saabakza_ai _ula_tabasa_i_tza ja_aela_haa _aakaszzara sa_haula_ai la_tashagza_ila baraamaja maujau_da_ai _aela_aa _aala_ai ja_da_i_da_ai: wa_hakajzzaa phza_i _ula_aasawaakza _hza_iszzamaa _takauna _aa_taa_hza_ai _ulabaraamaja _ula_tajaara_i_ai _aamaraa _jzaraurayyaa phza_aana _ulamajzau_da_ina _i_taphzakzauna _aela_aa waa_hza_da _aau _ae_da_da szagza_ira ja_daa mana lagzaa_ta _ula_aala_ai _ulabaarajza_ai.
+
+_aana _ula_hzawaasa_iba _ula_aakabara maszzala (_ilakhzaa_dauma) _takhza_talaphza _aena _ula_aanawaa_ae _ulasaabakza_ai phza_i _aamara _haama _hau _aana ba_dalaa mana wajau_da wa_hza_da_ai mayaalaja_ai marakajza_i_ai waa_hza_da_ai phza_aana_ha phza_i _ulagzaalaba _auja_da _aakaszzara mana wa_hza_da_ai. gzaalabaa maa _tama_talaka _hajzza_ha _ula_hzawaasa_iba banayyaa_ta gza_ira yaa_da_i_ai ba_daraja_ai kaba_ira_ai wa_hajzza_ha _ulabanayyaa_ta makhza_talaphza_ai bashakala mala_hzau_jzza _aena bana_i_ai _ulabaranaamaja _ulamakhzajzana _ula_aasaasa_i_ai waphza_i ba_ae_jza _ula_aa_hzayyaana _ta_hza_tau_i _aela_aa _ula_aalaaphza mana wa_hza_da_ai _ulamayaalaja_ai _ulamarakajza_i_ai walakana maszzala _hajzza_ha _ula_taszama_imaa_ta _taszaba_hza jzzaa_ta phzaaya_da_ai phzakza_tza la_aagzaraa_jza ma_takhzaszasza_ai.
+_aaja_hajza_ai _ula_aa_dakhzaala waala_aakhzaraaja
+
+"e_I"/"e_O" (_ikhza_taszaaraa la@ "e_Input"/"e_Output") _hau masza_tzala_hza yaama _i_tzalakza _aela_aa _ula_aaja_hajza_ai _ula_ta_i _tarasala _ulama_aelaumaa_ta mana _ulayaalama _ulakhzaaraja_i wa_talaka _ula_ta_i _ta_ae_i_da na_taayaja _ula_hzasaabaa_ta. _hajzza_ha _ulana_taayaja _imakana _aamaa _aana _ta_jzza_hara mabaashara_ai lalamasa_takhza_dama _aau _aana _i_tama _aarasaala_haa _aala_aa _aala_ai _aakhzara_aa waala_ta_i _ikauna _ta_hzakama_haa makhzaszasza lala_hzaasaba.
+
+_ilaja_ila _ula_aaula mana _ula_hzawaasa_iba kaana maja_hajzaa bama_da_aa ma_hza_dau_da ja_daa mana _aaja_hajza_ai _ula_aa_dakhzaala. maszzala kzaaraya _ulakarau_ta _ulamaszzakzaba_ai _aau _ula_aashayyaa _ulamamaaszzala_ai _ula_ta_i _aasa_takhza_dama_ta la_aa_dakhzaala _ula_aawaamara waalabayyaanaa_ta phza_i jzzaakara_ai _ula_hzaasauba wakajzzalaka _usa_takhza_dama ba_ae_jza _aanawaa_ae _ula_tzaabayaa_ta wa_hau phza_i _ulayaa_da_ai _aebaara_ai _aena "e_teletype" ma_ae_dala la_tasaja_ila _ulana_taayaja. wa_aela_aa mara _ulasana_ina _aaja_hajza_ai _aakhzara_aa _tama_ta _aa_jzaaphza_ta_haa. baalanasaba_ai _aala_aa _ula_hzaasabaa_ta _ulashakhzasza_i_ai phzaana lau_hza_ai _ulamaphzaa_ta_i_hza waalaphza_aara_ai _hamaa _ula_tzara_ikza_ta_ina _ularaya_isa_i_ta_ina _ulamasa_takhza_dama_ta_ina la_aa_dakhzaala _ulama_aelaumaa_ta mabaashara_ai _aala_aa _ula_hzaasaba waalashaasha_ai _ha_i _ula_tzara_ikza_ai _ularaya_isa_i_ai la_aa_jzza_haara _ulama_aelaumaa_ta lalamasa_takhza_dama wajzzalaka baalaragzama mana _aana _ula_tzaabayaa_ta waalasamaayaa_ta mana_tashara_ai _aa_i_jzaa. _tauja_da _tashaka_ila_ai _jzakhzama_ai mana _aaja_hajza_ai _ula_aa_dakhzaala _ula_aakhzara_aa la_aa_dakhzaala _aanawaa_ae _aakhzara_aa mana _ulama_dakhzalaa_ta. maszzaala _aela_aa jzzalaka _hau _ulakaama_iraa _ularakzama_i_ai _hza_iszza _tasa_takhza_dama la_aa_dakhzaala ma_aelaumaa_ta maraya_i_ai.
+
+mana _ulamamakana _tausza_ila majamau_ae_ai _jzakhzama_ai wama_tanau_ae_ai mana _ula_aaja_hajza_ai _ula_aalaka_tarauna_i_ai _aala_aa _ula_hzaasauba la_ta_aemala ka_aaja_hajza_ai _aa_dakhzaala wa_aakhzaraaja. bashara_tza _tauphzara na_jzzaama la_ta_aeraphza_haa _aela_aa _ula_hzaasauba wa_isama_aa _ulamashagzala (_hzaasauba) _aau "e_Driver"
+_ilabaraamaja
+
+    "e_Crystal" "e_Clear" "e_app" "e_kdict"."e_png"makzaala_ai maphzaszala_ai: baramajayyaa_ta
+
+baranaamaja _unasaka_iba _i_aemala _aela_aa _dabayyaana _ulajzza_i _hau _aa_hza_da _ulaamaszzala_ai _aela_aa _ulaana_jzzama_ai _ulamaphza_tau_hza_ai _ulamasza_dara
+
+_aana baraamaja _ula_hzaasauba babasaa_tza_ai _ha_i _aebaara_ai _aena kzaayama_ai mana _ula_aawaamara _inaphzajzza_haa _ula_hzaasauba wa_ta_tara_ou_hza _hajzza_ha _ula_aawaamara (_ila_ta_aela_imaa_ta) ba_ina ba_ae_jza _ula_aawaamara _ulakzala_ila_ai _ula_ta_i _tawa_da_i ma_hama_ai basa_i_tza_ai _aala_aa kzaayama_ai _aawaamara _aakaszzara _ta_aekza_i_da"e_K"^aa waala_ta_i mana _ulamamakana _aana _ta_hza_tau_i ja_da_oula mana _ulabayyaanaa_ta. _ula_ae_da_i_da mana baraamaja _ula_hzaasauba _ta_hza_tau_i _ulamalaa_i_ina mana _ula_aawaamara waala_ae_da_i_da mana _hajzza_ha _ula_aawaamara _i_tama _tanaphza_ijzza_haa baszaura_ai ma_takarara_ai. _aana _ula_hzaasauba _ulashakhzasza_i _ula_hza_da_iszza _ulanamaujzzaja_i _imakana_ha _tanaphza_ijzza _hzawaala_i 3 malayyaaraa_ta _aamara phza_i _ulaszzaana_i_ai. _aana _ula_hzawaasa_iba lama _taka_tasaba kza_daraa_ta_haa gza_ira _ulayaa_da_i_ai mana khzalaala kza_dara_ta_haa _aela_aa _tanaphza_ijzza _ula_aawaamara _ulama_aekza_da_ai. walakana baala_aa_hzara_aa phza_aana_haa _takzauma baalamalaa_i_ina mana _ula_aawaamara _ulamara_taba_ai _aena _tzara_ikza _aashakhzaasza _i_aeraphzauna baalamabaramaja_ina.
+
+yaa_da_ai phza_aana _ulamabaramaja_ina laa _ika_tabauna _ula_aawaamara _aala_aa _ula_hzaasauba mabaashara_ai balagza_ai _ula_aala_ai._aana _ulabaramaja_ai ba_hajzza_ha _ulalagza_ai _aemala_i_ai mamala_ai wasza_aeba_ai ja_da"e_K"^aa wa_tama_ila lalakhza_tza_aa baszaura_ai kaba_ira_ai mamaa _ija_aela _ulamabaramaja_ina gza_ira kzaa_dara_ina _aela_aa _ula_aana_taaja baszaura_ai kaba_ira_ai. wa_aau_jzaa"e_K" _aena jzzalaka _ikzauma _ulamabaramajauna bauszaphza _ula_aemala_i_ai _ulamaraa_da_ai phza_i lagza_ai baramaja_ai «yaala_i_ai _ulamasa_tau_aajha maszzala lagza_ai baasakaala _aau lagza_ai sa_i _aau lagzaa_ta khzaasza_ai ba_ta_tzaba_ikzaa_ta _ula_aana_tarana_ta maszzala jaaphzaa waala_ta_i _i_tama _tarajama_ta_haa _aau_taumaa_ta_ikayyaa"e_K" ba_ae_da jzzalaka _aala_aa lagza_ai _ula_aala_ai _aena _tzara_ikza baraamaja _hzaasauba makhzaszasza_ai (maphzasaraa_ta wama_tarajama) _i_da_ae_aa baala_aanajala_ijza_i_ai kaumabaa_ilara "e_compiler". ba_ae_jza lagzaa_ta _ulabaramaja_ai _tarasama khzara_i_tza_ai kzara_iba_ai ja_da"e_K"^aa mana lagza_ai _ula_aala_ai maszzala lagza_ai _ula_tajama_i_ae lagza_ai _tajama_i_ae (lagzaa_ta baramaja_ai manakhzaphza_jza_ai _ulamasa_tau_aa) wa_aela_aa _ulajaanaba _ula_aakhzara phza_aana lagzaa_ta _ulabaramaja_ai maszzala _ulabaraulauja "e_Prolog" mabana_i_ai _aela_aa kzawaa_ae_da majara_da_ai wamaphzaszaula_ai _aena _taphzasza_ilaa_ta _ula_aemala_i_ai _ula_hzakza_ikza_i_ai lala_aala_ai (lagzaa_ta baramaja_ai yaala_i_ai _ulamasa_tau_aa). _aana _ulalagza_ai _ulamakhza_taara_ai lama_hama_ai jajzaya_i_ai _ta_ae_tama_da _aela_aa _tzaba_i_ae_ai _hajzza_ha _ulama_hama_ai waalama_haara_ai _ula_ta_i _ima_talaka_haa _ulamabaramajauna wa_tawaaphzara _ula_aa_dawaa_ta wayaa_da_ai _u_hza_tayyaajaa_ta _ulamasa_ta_halaka_ina (_aela_aa saba_ila _ulamaszzaala phza_aana _ulamashaara_i_ae _ulakhzaasza_ai baalaasa_takhza_daamaa_ta _ula_hzaraba_i_ai _ula_aamara_ika_i_ai phza_i _ulagzaalaba _ijaba _aana _takauna mabaramaja_ai balagza_ai "e_Ada").
+
+_aana _ulakayyaana _ulama_aenau_i lala_hzaasauba "e_Computer" "e_software" (_ila_aajajzaa gza_ira _ulamalamausa_ai baala_hzaasauba) _hau masza_tzala_hza ba_da_ila labaraamaja _ula_hzaasauba ("e_computer" "e_programs"): wa_ha_i _aebaara_ai _aakaszzara shamaula_i_ai wa_ta_takauna mana kala _ulamawaa_da _ula_haama_ai _ulamaszaa_hzaba_ai lalabaranaamaja waala_ta_i _i_hza_taaja_haa la_aa_daa _ulama_haama _ulama_hama_ai _aela_aa saba_ila _ulamaszzaala phza_aana la_aeba_ai _ulaphza_i_da_au laa _ta_hza_tau_i phzakza_tza _aela_aa _ulabaranaamaja naphzasa_ha walakana _ta_hza_tau_i _aa_i_jzaa _aela_aa bayyaanaa_ta _tamaszzala _ulaszaura waala_aaszawaa_ta waalamawaa_da _ula_aakhzara_aa _ulama_tzalauba_ai la_aemala _ulaba_iya_ai _ula_takhza_ila_i_ai lala_aeba_ai. _ta_tzaba_ikza _ula_hzaasauba _hau kza_tza_ae_ai mana baraamaja _ula_hzaasauba _ula_ta_i _takza_dama lala_ae_da_i_da mana _ulamasa_takhza_dama_ina gzaalabaa phza_i saukza _tajajzaya_ai. mana _ula_aamaszzala_ai _ula_hza_da_iszza_ai _ulama_tzabakza_ai _tamaamaa _ha_i _ula_aa_dawaa_ta _ulamaka_taba_i_ai "e_office" "e_suite" wa_ha_i _aebaara_ai _aena baraamaja jzzaa_ta szaphzaa_ta masha_taraka_ai la_aa_daa ma_haama _ulamaka_taba _ulashaaya_ae_ai.
+
+baalajzza_haaba mana _ulakza_daraa_ta sha_da_i_da_ai _ulabasaa_tza_ai _ulakhzaasza_ai ba_aamara lagza_ai _aala_ai waa_hza_da _aala_aa _ulakza_daraa_ta _ula_jzakhzama_ai lalabaraamaja _ula_ta_tzaba_ikza_i_ai _i_aena_i _aana _ulakaszza_ira mana baraamaja _ula_hzaasauba _takauna kaba_ira_ai"e_K" ja_da"e_K"^aa wama_aekza_da_ai"e_K" lalagzaa_i_ai. mana _ula_aamaszzala_ai _aela_aa jzzalaka na_jzzaama _ula_tashagza_ila wa_ina_daujza _aakasa ba_i waalajzza_i _i_takauna mana _hzawaala_i 40 mala_auna sa_tzara mana shaphzara_ai _ula_hzaasauba phza_i lagza_ai baramaja_ai sa_i++ _auja_da _ula_ae_da_i_da mana _ulamashaara_i_ae _ula_ta_i _takauna _aakabara _ha_daphzaa _ikzauma ba_aanashaaya_ha phzarakza kaba_ira_ai mana _ulamabaramaja_ina. _aana _aa_daara_ai _hajzza_ha _ulamashaara_i_ae sha_da_i_da_ai _ula_ta_aekza_i_da _hau maphza_taa_hza _aamakaana_i_ai _tanaphza_ijzza _hajzza_ha _ulamashaara_i_ae: lagzaa_ta _ulabaramaja_ai wa_ta_tzaba_ikzaa_ta _ulabaramaja_ai _tasama_hza ba_takzasa_ima _ulama_hama_ai _aala_aa ma_haama phzara_ae_i_ai _aaszagzara phza_aaszagzara _hza_ta_aa _taszaba_hza phza_i kza_daraa_ta mabaramaja waa_hza_da waphza_i wakza_ta manaasaba.
+
+kamaa _aana _hanaaka ba_ae_jza _ulana_jzzama _ula_aakaszzara _ta_tzauraa"e_K" waala_ta_i _tasa_takhza_dama phza_i _ula_hzawaasa_iba _ula_jzakhzama_ai waala_hzawaasa_iba _ula_hzasaasa_ai kamakhza_damaa_ta _ulau_iba wagza_ira_haa wa_ha_i _ula_aana_jzzama_ai _ulamasha_takza_ai mana na_jzzaama "e_UNIX" maszzala "e_RedHat" (ra_i_da _haa_ta) wa"e_Sun" "e_Solaris" wakza_da _ta_tzaura_ta la_taszala_hza lalaasa_takhza_daama _ulamaka_taba_i wajzzalaka ba_tauphza_ira waaja_haa_ta rasauma_i_ai _imakana _aana _ta_taphzaukza _aa_hzayyaanaa"e_K" _aela_aa _aana_jzzama_ai maa_ikarausauphza_ta wa_ina_daujza _hza_iszza _tauphzara _ta_aaszza_iraa_ta _ta_taphzaukza _aela_aa _talaka _ulamaujau_da_ai phza_i wa_ina_daujza 7 kamaa _hau _ula_hzaala phza_i _aaubauna_tau kamaa _tama _usa_takhza_daama _aana_jzzama_ai "e_UNIX" phza_i ba_ae_jza _ula_aana_jzzama_ai _ulakhzaasza_ai baalamaubaa_ila wa_ta_tama_ijza_hajzza_ha _ula_aana_jzzama_ai baalauszzaukza_i_ai _hza_iszza _imakana _aana _tabakza_aa kza_i_da _ula_tashagza_ila _hza_ta_aa _aeshara sanawaa_ta ma_tawaaszala_ai _aau _aakaszzara ba_dauna _aa_i _taukzaphza kamaa _aana_haa laa _ta_aaszzara bamaa _isama_aa phza_irausaa_ta
+
+ wa_takza_dama _aa_daa yaala_i _hza_ta_aa _aela_aa _ula_aaja_hajza_ai _ula_jza_ae_iphza_ai _aala_aa _hza_da maa.
+
+wa_hajzza_ha _ula_aana_jzzama_ai gza_ira masa_takhza_dama_ai bashakala kaba_ira phza_i _ulayaalama _ula_aeraba_i wajzzalaka la_ae_dama _tawaaphzakza kala _ulabaraamaja _ula_ta_i _ta_aemala _aela_aa _aana_jzzama_ai maa_ikarausauphza_ta wa_ina_daujza ma_ae_haa lakana ma_ae_jzzama _ulabaraamaja _ulamaka_taba_i_ai _auja_da ba_da_ila _aena_haa kabaraamaja _aera_jza _ulaszau_ta waalaphza_i_da_au waalabaraamaja _ulamaka_taba_i_ai wabaraamaja _taszaphza_hza _ula_aana_tarana_ta wakala_haa baraamaja majaana_i_ai gzaalabaa"e_K" _takauna ma_tauphzara_ai ma_ae _ulana_jzzaama.
+
+_aana _aemala_i_ai _ta_tzau_ira _ulabaraamaja laa jzaala_ta ba_tza_iya_ai walaa _imakana _ula_tanabawa ba_haa wa_tama_ila lalakhza_tza_aa: _aana na_jzzama _hana_dasa_ai _ulabaraamaja _hza_oula_ta wakza_da naja_hza_ta jajzayayyaa phza_i ja_aela _ula_aemala_i_ai _aakaszzara sara_ae_ai wa_aana_taaja_i_ai wa_ta_hzasa_ina jau_da_ai _ulamana_taja _ulana_haaya_i.
+
+baraamaja _aakhzara_aa: _ha_i kaaphza_ai _ulabaraamaja _ula_aakhzara_aa _ae_daa na_jzzaama _ula_tashagza_ila _hza_iszza _i_aemala _ula_hzaasauba waphzakzaa"e_K" lala_ta_tzaba_ikzaa_ta _ulamaujau_da_ai _aela_i_ha maszzala: _ula_aalayaaba wabaranaamaja mayaalaja _ulanaszausza (baala_aanajala_ijza_i_ai: "e_Microsoft" "e_Word") wagza_ira_haa.
+_ilamaka_tabaa_ta wa_aana_jzzama_ai _ula_tashagza_ila
+
+    "e_Crystal" "e_Clear" "e_app" "e_kdict"."e_png"makzaalaa_ta maphzaszala_ai: maka_taba_ai"e__"baramaja_i_ai na_jzzaama"e__"_tashagza_ila
+
+waaja_ha_ai na_jzzaama _ula_tashagza_ila _aaubauna_tau la_inakasa
+	
+wa_ina_daujza saphzana
+
+ba_ae_da phza_tara_ai waja_ijza_ai mana _ta_tzau_ira _ula_hzaasauba _tama _uka_tashaaphza _aana _hanaaka ma_haama ma_ae_ina_ai _takauna ma_tzalauba_ai phza_i baraamaja makhza_talaphza_ai _aana maszzaalaa kza_da_imaa _aela_aa jzzalaka kaana _hzasaaba ba_ae_jza _ula_dawaala _ularayyaa_jza_i_ai _ula_aasaasa_i_ai. wamana _aajala _ulaphzayaala_i_ai phzakza_da _tama jama_ae nasakhza namaujzzaja_i_ai mana _talaka _ula_dawaala wau_jza_ae_haa phza_i maka_tabaa_ta _takauna ma_taa_hza_ai lamana _i_hza_taaja_haa. _aana majamau_ae_ai _ulama_haama _ulashaaya_ae_ai ba_ae_jza _ulasha_i waala_ta_i _ta_ta_aelakza bamayaalaja_ai ka_tala _ulabayyaanaa_ta _ulakhzaasza_ai «baala_ta_hza_daszzajha _aala_aa _aaja_hajza_ai _ula_aa_dakhzaala waala_aakhzaraaja _ulamakhza_talaphza_ai walajzzalaka _tama _ta_tzau_ira maka_tabaa_ta la_haa sara_iyaa.
+
+baana_ta_haa _ulasa_ta_inaa_ta mana _ulakzarana _ula_aeshara_ina wama_ae _ulaasa_takhza_daama _ulaszanaa_ae_i _ulawaasa_ae lala_hzaasauba phza_i _ula_ae_da_i_da mana _ula_aagzaraa_jza _aaszaba_hza mana _ulashaaya_ae _usa_takhza_daama_ha la_aanajaajza _ula_ae_da_i_da mana _ulau_jzzaayaphza phza_i _ulamawasasaa_ta. ba_ae_da jzzalaka baphza_tara_ai waja_ijza_ai _aaszaba_hza ma_taa_hzaa wajau_da baraamaja khzaasza_ai la_taukza_i_ta wa_tanaphza_ijzza _talaka _ulama_haama _ula_ae_da_i_da_ai. _aana majamau_ae kala mana _aa_daara_ai aala_aajajzaa _ulaszalaba_aijha wa_taukza_i_ta _ulama_haama _aaszaba_hza ma_aerauphzaa baasama na_jzzaama _ula_tashagza_ila mana _ula_aamaszzala_ai _ulakza_da_ima_ai _aela_aa _hajzzaa _ulanau_ae mana _aana_jzzama_ai _ula_tashagza_ila _ulakza_da_ima_ai kaana "e_OS"/360 _ulakhzaasza ba@ _aa_i ba_i _aama.
+
+_aana _ula_ta_tzau_ira _ularaya_isa_i _ula_taala_i phza_i _aana_jzzama_ai _ula_tashagza_ila kaana "e_timesharing" - waphzakara_ta_ha _ta_ae_tama_da _aela_aa _aana _ae_da_daa mana _ulamasa_takhza_dama_ina ba_aamakaana_hama _usa_takhza_daama _ula_aala_ai phza_i wakza_ta waa_hza_da wajzzalaka _aena _tzara_ikza _ulaa_hza_taphzaa_jzza bakala baraamaja_hama phza_i _ulajzzaakara_ai wa_tanaphza_ijzza baranaamaja kala masa_takhza_dama lama_da_ai kzasza_ira_ai wabajzzalaka _iszaba_hza waka_aana kala masa_takhza_dama _imalaka kala mana_hama _hzaasauba"e_K"^aa khzaasza"e_K"^aa ba_ha. _aana maszzala _hajzzaa _ula_ta_tzau_ira _i_ta_tzalaba mana na_jzzaama _ula_tashagza_ila ba_aana _ikza_dama lakala baraamaja _ulamasa_takhza_dama_ina «_aala_ai _takhza_ila_i_aijha wajzzalaka lamana_ae baranaamaja _ulamasa_takhza_dama _ulawaa_hza_da mana _ula_ta_daakhzala ma_ae _ulabaraamaja _ula_aakhzara_aa (baalasza_daphza_ai _aau _ula_taszama_ima). _aana ma_da_aa _ula_aaja_hajza_ai _ula_ta_i _ijaba _aana _ta_tayaamala ma_ae_haa na_jzzama _ula_tashagza_ila kza_da _tama_da_da mana _ula_aamaszzala_ai _ulamalaa_hza_jzza_ai kaana _ulakzarasza _ulaszalaba _aana phzakara_ai _ulamalaphzaa_ta _ulaphzara_da_i_ai waala_tara_ta_iba _ulabanaaya_i _ulamana_jzzama lalaa_dala_ai ""directories"" (_hzaalayyaa _i_tzalakza _aela_i_haa phza_i _ulagzaalaba majala_daa_ta ""folder"") kza_da sa_hala_ta wabashakala kaba_ira _usa_takhza_daama _hajzza_ha _ula_aaja_hajza_ai lala_takhzajza_ina _ula_daayama. mana _ula_aamaszzala_ai _ula_hza_da_iszza_ai _ulama_tzabakza_ai _tamaamaa _ha_i _ula_aa_dawaa_ta _ulamaka_taba_i_ai "e_office" "e_suite" wa_ha_i _aebaara_ai _aena baraamaja jzzaa_ta szaphzaa_ta masha_taraka_ai la_aa_daa ma_haama _ulamaka_taba _ulashaaya_ae_ai. _aana ma_ta_hzakamaa_ta _ulauszaula _ula_aamana sama_hza_ta lamasa_takhza_dama_i _ula_hzaasauba baalauszaula phzakza_tza _aala_aa _ulamalaphzaa_ta waala_aa_dala_ai waalabaraamaja _ula_ta_i la_da_i_hama _taszara_i_hza baasa_takhza_daama_haa kaana_ta _aa_i_jza"e_K"^aa shaaya_ae_ai.
+
+rabamaa _takauna _aakhzara _aa_jzaaphza_ai lana_jzzaama _ula_tashagza_ila kaana_ta _aebaara_ai _aena _aa_dawaa_ta _tajzau_da _ulamasa_takhza_dama bawaaja_ha_ai masa_takhza_dama rasauma_i_ai ma_aeyyaara_i_ai. ba_inamaa kaana_ta _hanaaka ba_ae_jza _ula_aasabaaba _ula_takzana_i_ai la_jzaraura_ai raba_tza waaja_ha_ai _ulamasa_takhza_dama _ularasauma_i_ai (waaja_ha_ai masa_takhza_dama rasauma_i_ai) ma_ae baakza_i _aajajzaa na_jzzaama _ula_tashagza_ila phzakza_da sama_hza jzzalaka labaaya_ae na_jzzaama _ula_tashagza_ila baja_aela kala _ulabaraamaja _ulamauja_ha_ai lana_jzzaama _tashagza_ila_ha _tama_talaka naphzasa _ulawaaja_ha_ai.
+
+khzaaraja _hajzza_ha _ulama_haama _ula_daakhzala_i_ai ""core"" phza_aana na_jzzaama _ula_tashagza_ila gzaalaba"e_K"^aa maa _ikauna majzau_da"e_K"^aa bamajamau_ae_ai mana _ula_aa_dawaa_ta _ula_aakhzara_aa ba_ae_jza mana_haa rabamaa _imalaka _u_taszaala"e_K"^aa _jzaya_ila"e_K"^aa ba_hajzza_ha _ulama_haama _ula_daakhzala_i_ai _ula_aaszala_i_ai walakana waja_da _aana_haa maphza_i_da_ai la_ae_da_da kaaphza_i mana _ulamasa_ta_halaka_ina mamaa ja_aela _ulamana_taja_ina ba_jza_iphzauna_haa phza_aela_aa saba_ila _ulamaszzaala maaka _aau._aasa _aeshara_ai _ikza_dama ma_ae _ta_tzaba_ikza la_ta_hzara_ira _ulaphza_i_da_au _ularakzama_i.
+
+na_jzzama _tashagza_ila _ula_hzawaasa_iba _ula_aaszagzara rabamaa laa _takza_dama kala _hajzza_ha _ulama_haama. na_jzzaama _ula_tashagza_ila lalamaa_ikarausauphza_ta _ulakza_da_ima jzza_i _ulajzzaakara_ai wakza_daraa_ta _ulamayaalaja_ai _ulama_hza_dau_da_ta_ina kaana_ta laa _takza_dama kala _ulama_haama waala_hzawaasa_iba _ulama_damaja_ai _daayamaa _aamaa _tamalaka na_jzzama _tashagza_ila ma_takhzaszasza_ai _aau laa _tamalaka na_jzzaama _tashagza_ila baalakala_i_ai ma_ae baraamaja_ha _ula_ta_tzaba_ikza_i_ai _ulama_takhzaszasza_ai waala_ta_i _tawa_da_i _ulama_haama _ula_ta_i mana _ulamamakana _aana _ta_aau_da ba_tzara_ikza_ai _aakhzara_aa _aala_aa na_jzzaama _ula_tashagza_ila.
+
+_imakana lala_hawaa_taphza _ulajzzaka_i_ai _ulakhzalau_i_ai _ulasabakza phza_i _ulasa_i_tzara_ai _aela_aa _ula_aaja_hajza_ai _ula_aalaka_tarauna_i_ai _ulaasa_ta_halaaka_i_ai khzaszauszaa"e_K" ma_ae _ulaszaraa_ae _aela_aa _tzara_hza _ulaja_da_i_da waala_aa_hza_daszza phza_i _hajzzaa _ulamajaala ba_ina _ulasharakaa_ta _ulama_tanaaphzasa_ai.
+makaunaa_ta _ula_hzaasauba
+makaunaa_ta _ula_hzaasauba:
+
+    _ulashaasha_ai ("e_Monitor")
+    _ulalau_hza_ai _ulaama ("e_Motherboard")
+    wa_hza_da_ai _ulamayaalaja_ai _ulamarakajza_i_ai ("e_CPU")
+    _ulajzzaakara_ai _ularaya_isa_i_ai ("e_RAM")
+    raba_tza _ula_aenaaszara _ulajaanaba_i_ai ("e_PCI")
+    maula_da _ula_tzaakza_ai ("e_Power")
+    kzaaraya _ulakzarasza _ulama_jzagzau_tza ("e_CD") _aau kzaaraya _ulakzarasza _da_i phza_i _da_i ("e_DVD")
+    _ulakzarasza _ulaszalaba ("e_Hard" "e_Disk")
+    phza_aara_ai ("e_mouse")
+    lau_hza_ai _ulamaphzaa_ta_i_hza ("e_Keyboard")
+
+_ikzasza_da bamakaunaa_ta _ula_hzaasauba _ulamakaunaa_ta _ulaszalaba_ai _aau _ula_ae_taa_da phzakza_tza. mana _ulamamakana _ulakzaula _aana _aa_i na_jzzaama _hzaasauba_i _i_hza_tau_i _aela_aa _ula_aajajzaa _ula_taala_i_ai ba_aashakaala_ha _ulamakhza_talaphza_ai:
+
+    wa_hza_da_ai _ulamayaalaja_ai _ulamarakajza_i_ai -wa _i_tzalakza _aela_i_ha _ukhza_taszaara"e_K"^aa aalamayaalajajha- wa_hau _i_ta_hzakama bamayaalaja_ai _ula_aemalayyaa_ta _ula_hzasaaba_i_ai wa_tanaphza_ijzza_haa.
+    _ulalau_hza_ai _ula_aama "e_Motherboard".
+    jzzaakara_ai _ulauszaula _ula_aeshawaaya_i "e_RAM".
+    wa_hza_daa_ta _ula_takhzajza_ina maszzala: _ulakzarasza _ulaszalaba "e_HardDisk".
+    wa_hza_daa_ta _aa_dakhzaala wa_aakhzaraaja _ulabayyaanaa_ta maszzala lau_hza_ai _ulamaphzaa_ta_i_hza _ulaphza_aara_ai waalashaasha_ai.
+    majzau=_da _ula_tzaakza_ai: wa_hau szana_daukza _ijzau=_da _ula_hzaasauba baala_tzaakza_ai _ula_ta_i _i_hza_taaja_haa.
+    kaara_ta _ulashaasha_ai: _aera_jza _ulaszaura ba_ae_da mayaalaja_ta_haa phza_i _ulamayaalaja.
+    kaara_ta _ulaszau_ta: wa_hau ba_tzaakza_ai masawaula_ai _aena _aakhzaraaja wa_aa_dakhzaala _ula_aaszawaa_ta _ulamakhza_talaphza_ai _aala_aa _ula_hzaasauba.
+
+wa_hanaaka makaunaa_ta _aakhzara_aa _ta_ae_tabara makamala_ai la_aemala _ula_hzaasauba maszzala:
+
+    _ula_tzaaba_ae_ai.
+    _ulamaasa_hza _ula_jzauya_i.
+    _ula_aaja_hajza_ai _ulaszau_ta_i_ai waalamaraya_i_ai _aau _ulausaaya_tza _ulama_ta_ae_da_da_ai.
+
+baala_aa_jzaaphza_ai _aala_aa _ulamakaunaa_ta _ulaszalaba_ai phza_aana _ula_hzaasauba _i_hza_taaja _aala_aa:
+
+    na_jzzaama _tashagza_ila la_isa mana makaunaa_ta _ula_hzaasauba wa_i_ae_tabara mana _ulamakamalaa_ta.
+    _ulabaraamaja la_isa_ta mana makaunaa_ta _ula_hzaasauba wa_ta_ae_tabara mana _ulamakamalaa_ta wa_ishaba_ha _ulaba_ae_jza _ula_aelaakza_ai ba_ina _ulabaraamaja waala_hzaasauba baala_aelaakza_ai ba_ina _ularau_hza waalajasama.
+
+_aanawaa_ae _ula_hzawaasa_iba
+
+raaja_ae _ulamakzaala _ulaphzara_ae_i _aanawaa_ae _ula_hzawaasa_iba.
+_hzaasauba shakhzasza_i
+
+_imakana _takzasa_ima _ula_hzawaasa_iba _aala_aa:
+
+    _hzawaasa_iba _ula_aa_tzaara _ularaya_isa_i: wa_ha_i _ula_hzawaasa_iba jzzaa_ta _ulasayaa_ta _ula_takhzajza_ina_i_ai _ula_jzakhzama_ai waalakaphzaa_ha_ai _ulayaala_i_ai phza_i _ulamayaalaja_ai waala_ta_i _tasa_takhza_dama phza_i _ulamanasha_aa_ta _ulakaba_ira_ai kaala_dawaayara _ula_hzakauma_i_ai waalasharakaa_ta _ulakabara_aa _hza_iszza _i_tama raba_tza _ulaja_haajza _ularaya_isa_i bamajamau_ae_ai mana _ula_aaja_hajza_ai _ulaphzara_ae_i_ai _tasama_aa na_haayyaa_ta _tzaraphza_i_ai.
+    _hzawaasa_iba shakhzasza_i_ai: wa_ha_i _ula_hzawaasa_iba _ula_ta_i naraa_haa phza_i _ulamanaajzala waalamakaa_taba. wa_isa_ta_aemala masza_tzala_hza _ula_hzaasauba bashakala yaama phza_i _ula_aashaara_ai _aala_aa _ula_hzawaasa_iba _ulashakhzasza_i_ai.
+    _hzawaasa_iba kaphza_i@=_ai: wa_ha_i _aaja_hajza_ai szagza_ira_ai laa _i_taja_oujza _hzajama_haa kaphza _ula_i_da _tasa_takhza_dama phza_i _aajaraa ba_ae_jza _ulama_haama _ula_hzaasauba_i_ai _ulabasa_i_tza_ai ka_hzaphza_jzza _ulabayyaanaa_ta _ula_jzaraura_i_ai waalamawaa_ae_i_da wakza_da _tausa_ae _usa_takhza_daama_haa mawakhzaraa"e_K" _hza_ta_aa _aaszaba_hza_ta _ta_jzaa_ha_i baasa_takhza_daamaa_ta_haa _ula_hzawaasa_iba _ula_aakhzara_aa _hza_iszza _tasa_takhza_dama ba_ae_jza_haa phza_i _ula_dakhzaula _aala_aa _ula_aana_tarana_ta _aau _ulaasa_ta_dalaala phza_i _ula_tzarakza mana khzalaala _aana_jzzama_ai _ula_aaba_hzaara.
+    _hzawaasaba ma_damaja_ai: wa_ha_i _ula_hzawaasa_iba _ulamaujau_da_ai phza_i _ula_ae_da_i_da mana _ula_aaja_hajza_ai _ula_aalaka_tarauna_i_ai waalaka_harabaaya_i_ai _aajzza _aana _ula_ae_da_i_da mana _ula_aaja_hajza_ai _ta_hza_tau_i _hzawaasa_iba la_aagzaraa_jza khzaasza_ai. phzamaszzalaa"e_K" _tauja_da _ula_hzawaasa_iba phza_i _ula_hawaa_taphza _ulasayyaaraa_ta wa_aaja_hajza_ai _ulaphza_i_da_au waala_tzaayaraa_ta wagza_ira_haa._ila_hzawaasa_iba _ulama_damaja_ai _aau maa _i_tzalakza _aela_i_haa _usama _ulama_ta_hzakama _ulaszagza_ira _ha_i _aebaara_ai _aena "e_microcontroler" _hakajzzaa _tasama_aa baalalagza_ai _ula_aanajala_ijza_i_ai la_aana_ha _ae_da_ai _aajajzaa _hzaasauba mau_jzau_ae_ai phza_i rakzaakza_ai _aalaka_tarauna_i_ai waa_hza_da_ai wa_ha_i _ula"e_chip" _ula_ta_i _tabaramaja ka_iphzamaa _tara_i_da na_aema _tasa_ta_tza_i_ae _aemala baramaja_ai la_hajzza_ha _ularakzaakza_ta wa_tasa_ta_tza_i_ae ma_hza_i_haa _aakaszzara mana 1000 mara_ai wa_aayaa_da_ai baramaja_ta_haa mana _aa_hama _ulakza_tza_ae _ulamasa_ta_aemala_ai _aalaa wa_ha_i "e_pic"16"e_f"84 _ulasha_ha_ira_ai mana sharaka_ai "e_microship" _ulayaalama_i_ai wa_hanaaka nasakhza _aaphza_jzala mana _hajzza_ha _ularakzaakza_ai _imakanaka _aemala _ula_aaphza _ula_ta_tzaba_ikzaa_ta bawaasa_tza_ai baramaja_ai _hajzza_ha _ularakzaakza_ai _aa_i _tasa_ira_haa _hzasabamaa _tara_i_da _aana _tasa_ira_haa.
+
+_aanawaa_ae phzara_ae_i_ai
+
+    _ula_hzaasauba _ulakzayyaasa_i _ula_aemau_da_i ("e_Tower" "e_PC") _ula_hzaasauba _ulashakhzasza_i _ulamajzau_da ba_aelaba_ai _aemau_da_i_ai _ta_hza_tau_i _aela_aa naphzasa _ula_aajajzaa _ulamaujau_da_ai phza_i _ula_hzaasauba _ulashakhzasza_i _ulakzayyaasa_i _ulaaphzakza_i baasa_taszzanaa _una _ula_aelaba_ai _ulaaphzakza_i_ai _aakabara _hzajamaa wabaala_taala_i _imakana _taraka_iba _aaja_hajza_ai _aakaszzara phza_i _daakhzala_haa. _imakana wa_jza_ae _ula_aelaba_ai _ula_aemau_da_i_ai _aela_aa _ula_aara_jza la_tauphza_ira _ulamasaa_hza_ai _aela_aa _ulamaka_taba.
+    _ula_hzaasauba _ulashabaka_i ("e_Network" "e_PC")
+
+_ilashabaka_ai _tasama_hza laka bauszala ja_haajza_ina _aau _aakaszzara ma_ae ba_ae_jza_hama _ulaba_ae_jza wa_hajzzaa _isama_hza lalabayyaanaa_ta _ulamakhzajzana_ai phza_i _hzaasauba mana _aana _tasa_takhza_dama mana kzabala _ula_hzaasauba _ula_aakhzara _ulama_taszala _aela_aa _ulashabaka_ai kamaa _aana_haa _tasama_hza bamashaaraka_ai ba_ae_jza _ulamawaara_da phzamaszzalaa ba_dala _aana _i_hza_taaja kala _hzaasauba _tzaaba_ae_ai khzaasza_ai ma_taszala_ha ba_ha mabaashara_ai _imakanaka _ula_aana _u_hza_jzaara _tzaaba_ae_ai waa_hza_da_ai la_takauna masha_taraka_ai.
+
+    _ulamasaa_ae_da _ularakzama_i _ulashakhzasza_i ("e_PDA") _ulamasaa_ae_da _ularakzama_i _ulashakhzasza_i ("e_PDA") maja_hajza bakzalama khzaasza ba_dala mana lau_hza_ai _ulamaphzaa_ta_i_hza waalajzza_i _imakana _usa_takhza_daama_ha la_takhzajza_ina waasa_ta_dayaa _ulama_aelaumaa_ta. wakaala_ae_da_i_da mana _aaja_hajza_ai _ula_hzaasauba _ula_aala_i _imakana waszala_ha baalaana_tarana_ta.
+    _ula_hzaasauba _ulakzayyaasa_i _ulaaphzakza_i ("e_Desktop" "e_PC")
+
+_ila_hzaasauba _ulashakhzasza_i _ulakzayyaasa_i _imakana wa_jza_ae_ha _aela_aa _ulamaka_taba _hza_iszza _takauna shaasha_ai _ula_aera_jza la_da_i_ha mau_jzau_ae_ai phzaukza _aelaba_ai _ula_hzaasauba _ulaaphzakza_i_ai.
+_ilabaramaja_i_ai
+
+_tasha_ira _ulabaramaja_i_ai _aala_aa _aajajzaa mana _ula_hzaasauba la_isa la_haa shakala maa_da_i maszzala _ulabaraamaja waalabayyaanaa_ta waalabarau_taukaulaa_ta wamaa _aala_aa jzzalaka wa_ha_i jzzalaka _ulajajza mana na_jzzaama _ulakamaba_au_tara _ulajzza_i _i_takauna mana ma_aelaumaa_ta mashaphzara_ai _aau _ta_aela_imaa_ta kamaba_au_tara _aela_aa _aekasa _ula_aaja_hajza_ai _ulamaa_da_i_ai _ula_ta_i _tama banaa _ulana_jzzaama mana_haa. _ta_ta_jzamana baramaja_i_ai _ula_hzaasauba baraamaja _ula_hzaasauba waalamaka_tabaa_ta waalabayyaanaa_ta gza_ira _ulakzaabala_ai lala_tanaphza_ijzza jzzaa_ta _ulaszala_ai maszzala _ulauszzaayakza _aebara _ula_aana_tarana_ta _aau _ulausaaya_tza _ularakzama_i_ai. gzaalaba"e_K"^aa maa _i_tama _takzasa_ima_haa _aala_aa baraamaja na_jzzaama wabaraamaja _ta_tzaba_ikzaa_ta _ta_ta_tzalaba _aaja_hajza_ai wabaraamaja _ulakamaba_au_tara ba_ae_jza_haa _ulaba_ae_jza walaa _imakana _usa_takhza_daama _aa_i mana_haa bashakala waakza_ae_i bamaphzara_da_haa. _aena_damaa _i_tama _takhzajza_ina _ulabaranaamaja phza_i ja_haajza laa _imakana _ta_ae_da_ila_ha basa_haula_ai maszzala "e_BIOS" "e_ROM" phza_i kamaba_au_tara ma_tawaaphzakza ma_ae "e_IBM" "e_PC" _i_tzalakza _aela_i_ha _aa_hzayyaana"e_K"^aa ""¦ÑÊÏÚÌº ¨Ñ×ééÚÊÂ­"".
+na_jzzaama _tashagza_ila 	_aunakasa wa_taujza_i_ae_ai baramajayyaa_ta ba_irakala_i 	na_jzzaama _aunakasa _ulakhzaamasa, _aa_i ba_i _aama _aa_i_ha _aa_i _aakasa, _aa_tasha ba_i - _au _aakasa, saulaara_isa (szana _aau _aasa), _aa_irakasa
+janau/la_inakasa 	kzaayama_ai _taujza_iyaa_ta la_inakasa, makzaarana_ai la_taujza_iyaa_ta janau/la_inakasa
+maa_ikarausauphza_ta wa_ina_daujza au_ina_daujza 95, wa_ina_daujza 98, wa_ina_daujza _aana _ta_i, wa_ina_daujza 2000, wa_ina_daujza ma_ila_ina_auma, wa_ina_daujza _aakasa ba_i, wa_ina_daujza phza_isa_taa, wa_ina_daujza 7, wa_ina_daujza 8, wa_ina_daujza 8.1, wa_ina_daujza 10
+_dausa (na_jzzaama _tashagza_ila) 	86-"e_DOS" ("e_QDOS"), _aa_i ba_i _aama _dausa, _aama _aasa-_dausa, "e_DR"-"e_DOS", phzara_i _dausa
+_aana_jzzama_ai _tashagza_ila maaka_ina_tausha 	_taara_ikhza maaka _aau _aasa, maaka _aau _aasa
+na_jzzaama _tashagza_ila ma_damaja wana_jzzaama _tashagza_ila _ulaukza_ta _ula_hzakza_ikza_i 	kzaayama_ai na_jzzama _ula_tashagza_ila
+_tajara_iba_i 	_aama_ibaa (na_jzzaama _tashagza_ila)
+maka_taba_ai baramaja_i_ai ausaaya_tza ma_ta_ae_da_da_ai 	_daa_iraka_ta _aakasa, maka_taba_ai _ularasaumayyaa_ta _ulamaphza_tau_hza_ai, maka_taba_ai _ulaszau_ta _ulamaphza_tau_hza_ai, phzaulakaana (waaja_ha_ai baramaja_ai _ula_ta_tzaba_ikzaa_ta)
+maka_taba_ai _ulabaramaja_ai 	maka_taba_ai sa_i _ulama_aeyyaara_i_ai, maka_taba_ai _ulakzawaalaba _ulama_aeyyaara_i_ai
+bayyaanaa_ta (_hzausaba_ai) 	barau_taukaula (_i_taszaalaa_ta) 	_hzajzama_ai barau_taukaulaa_ta _ula_aana_tarana_ta, ka_irama_i_ta, barau_taukaula nakzala _ulamalaphzaa_ta, barau_taukaula nakzala _ulanasza _ulaphzaayakza, barau_taukaula nakzala _ulabara_i_da _ulabasa_i_tza
+sza_igza_ai malaphza 	lagza_ai _tarama_ijza _ulanasza _ulaphzaayakza, lagza_ai _ula_tarama_ijza _ulakzaabala_ai lalaama_ta_daa_da, ja_i_ha ba_i_ha _aa_i_ha ja_i, _aama ba_i _aa_i ja_i, ba_i _aana ja_i (sza_igza_ai malaphzaa_ta)
+waaja_ha_ai _ulamasa_takhza_dama 	waaja_ha_ai masa_takhza_dama rasauma_i_ai ("e_WIMP") 	maa_ikarausauphza_ta wa_ina_daujza, janauma, ka_da_i, ka_au _aana _aakasa phzau_tauna, sa_i _da_i _aa_i, "e_GEM", _aakawaa (waaja_ha_ai masa_takhza_dama)
+waaja_ha_ai masa_takhza_dama nasza_i_ai 	waaja_ha_ai sa_tzara _ula_aawaamara, waaja_ha_ai masa_takhza_dama nasza_i_ai
+baramajayyaa_ta _ta_tzaba_ikza_i_ai 	_hzajzama_ai maka_taba 	mayaalaja kalamaa_ta, nashara maka_taba_i, baranaamaja _takza_da_ima, kzaa_ae_da_ai bayyaanaa_ta, _ulaja_daula_ai wa_aa_daara_ai _ulaukza_ta, ja_daula (_hzausaba_ai), baramajayyaa_ta ma_hzaasaba_ai
+waszaula _ula_aana_tarana_ta 	ma_taszaphza_hza wa_iba, _aema_ila bara_i_da _aalaka_tarauna_i, khzaa_dama wa_iba, khzaa_dama _ularasaayala, _taraasala phzaura_i
+_ila_taszama_ima waala_taszana_i_ae 	_taszama_ima bamasaa_ae_da_ai _ula_hzaasauba, _taszana_i_ae bamasaa_ae_da_ai _ula_hzaasauba, _aa_daara_ai _ulamaszana_ae _ula_taszana_i_ae _ula_aala_i _aa_daara_ai salasala_ai _ula_taura_i_da
+rasaumayyaa_ta _hzaasauba_i_ai 	ma_hzarara rasaumayyaa_ta nakza_tza_i_ai, rasaumaa_ta _hzaasauba_i_ai szzalaaszza_i_ai _ula_aabayaa_da, _ta_hzara_ika _hzaasauba_i, rasaumaa_ta _hzaasauba_i_ai szzalaaszza_i_ai _ula_aabayaa_da, _ta_hzara_ira _ulaphza_i_da_au, mayaalaja_ai _ulaszaura _ularakzama_i_ai
+szau_ta rakzama_i 	baraamaja _ta_hzara_ira _ulaszau_ta, mashagzala wasaaya_tza _ula_taula_iphza _ulaszau_ta_i mausa_ikza_aa _ulakamaba_au_tara
+_hana_dasa_ai _ulabaramajayyaa_ta 	ma_hzaula baramaja_i, lagza_ai _ula_tajama_i_ae, maphzasara (baramaja_ai), masza_hza_hza, ma_hzarara naszausza, ba_iya_ai _ta_tzau_ira ma_takaamala_ai, _jzaba_tza _ulanasakhza (_ila_hzaasauba), _aa_daara_ai _takau_ina _ulabaramajayyaa_ta
+_ta_aela_ima_i_ai 	_aelama _taraphza_i_ha_i, la_aeba_ai _ta_aela_ima_i_ai, la_aeba_ai jaa_da_ai, ma_hzaakaa_ai _ula_tza_iraana
+la_aeba_ai phza_i_da_au 	_aasa_taraa_ta_ija_i_ai, _aalayaaba _aaraka_i_da, la_aeba_ai phza_i_da_au _aalagzaajza, la_aeba_ai ma_hzaakaa_ai, _taszau_iba mana_jzzaura _ulashakhzasza _ula_aaula, la_aeba_ai manaszaa_ta, la_aeba_ai kaszza_iphza_ai _ulalaa_aeba_ina _aela_aa _ula_aana_tarana_ta, _aa_daba _taphzaa_aela_i
+ma_taphzarakzaa_ta 	jzzakaa _usza_tzanaa_ae_i, ma_jzaa_da phza_irausaa_ta (baramaja_ai), ma_jzaa_da phza_irausaa_ta (baramaja_ai), _taszzaba_i_ta (_hzausaba_ai)/na_jzzaama _aa_daara_ai _ula_hzajzama"e_s", ma_da_ira _ulamalaphzaa_ta
+_ina_jzzara _aa_i_jza"e_K"^aa
+
+    _ae_taa_da _ula_hzaasaba
+    na_jzzara_i_ai _ula_hzasauba_i_ai
+    _aelauma _ula_hzaasauba _aau ma_aelaumaa_ta_i_ai
+    _aanamaa_tza _ula_hzaasauba: _hzaasauba maka_taba_i - _hzaasauba ma_hzamaula - _ula_haa_taphza _ulama_hzamaula
+    _hzausaba_ai
+    rakzama_i
+    _taara_ikhza _ula_hzausaba_ai
+    _hzaasauba shakhzasza_i
+
+	
+
+    mayaalaja_ai _ulakalamaa_ta
+    baramaja_ai _ula_hzaasaba
+    _hzaasauba kamauma_i
+    wa_hza_daa_ta _ula_aa_dakhzaala waala_aakhzaraaja
+    szamaama _aejzama magzajzala_i
+    wakza_ta _ula_tashagza_ila
+    baranaamaja _hzaasauba
+    mala_hzakzaa_ta (_hzaasauba)
+
+
+_ilamaraaja_ae
+
+ma_aejama _ulausa_i_tza
+""ØéèÚ×çÊ - Ìç×çÍÚÂ Ñ×ÚÆ ÆÂ ÑÑ=µé­ ¨Ñ¬ÏÊ¦­ - Lisaan.net"". "e_lisaan"."e_net". mawarashaphza mana _ula_aaszala phza_i 18 phzabaraa_ira 2019. _u_tzala_ae _aela_i_ha ba_taara_ikhza 17 phzabaraa_ira 2019.
+phza_i 1964 _usa_ta_halaka _aanayyaaka _takza_da_irayyaa 174 ka_ilau waa_ta phza_i _ulamakzaabala phza_aana _hzaasauba shakhzasza_i ma_tausa_tza kza_da _isa_ta_halaka 400 waa_ta _aakzala bamaa _ijza_i_da _aena 400 mara_ai
+
+    "e_techdict":"e_Computer" - wa_ika_i _aerabaa_ijza
+
+"e_Light" "e_Bulb" "e_Icon"."e_svg"
+_hzaasauba phza_i _ulamashaara_i_ae _ulashakza_ikza_ai
+
+    "e_Commons"-"e_logo"."e_svg" szaura wamalaphzaa_ta szau_ta_i_ai mana kaumanajza
+
+mashaara_i_ae shakza_ikza_ai
+_iba_hzaszza _aena _hzaasauba phza_i wa_ikaamausa.
+_ta
+
+    _aena_ta
+
+_ilamajaalaa_ta _ula_takzana_i_ai _ula_aasaasa_i_ai
+_ta
+
+    _aena_ta
+
+makaunaa_ta _ula_hzaasauba _ula_aasaasa_i_ai
+_jzaba_tza _usa_tanaa_da_i	
+
+    "e_BNE": "e_XX"524661 "e_BNF": "e_cb"119401913 ("e_data") "e_GND": 4070083-5 "e_LCCN": "e_sh"85029552 "e_NARA": 10636641 "e_NARA": 10636641 "e_NDL": 00561435
+
+_ila_taszana_iphzaa_ta _ula_tzaba_i_ai	
+
+    "e_MeSH" "e_ID": "e_D"003201 
+
+_ilama_aeraphzaa_ta _ulakhzaaraja_i_ai	
+
+    "e_BNE" "e_ID": "e_XX"524661  "e_JSTOR" "e_ID": "e_computer"-"e_systems"  "e_BNCF": 2752 
+
+    _aa_ikzauna_ai bawaaba_aibawaaba_ai ka_harabaa _aa_ikzauna_ai bawaaba_aibawaaba_ai _aalaka_taraunayyaa_ta _aa_ikzauna_ai bawaaba_aibawaaba_ai _takzaana_ai _aa_ikzauna_ai bawaaba_aibawaaba_ai _takzana_i_ai _ulama_aelaumaa_ta _aa_ikzauna_ai bawaaba_aibawaaba_ai _aelama _ula_hzaasauba
+
+_taszana_iphzaana:
+
+    _aalaka_taraunayyaa_ta _usa_ta_halaaka_i_ai_hzawaasa_iba
+
+kzaayama_ai _ula_taszaphza_hza
+
+    gza_ira masajala lala_dakhzaula
+    nakzaasha
+    masaa_hamaa_ta
+    _aanashaa _hzasaaba
+    _dakhzaula
+
+    makzaala_ai
+    nakzaasha
+
+    _ukzara_aa
+    _ae_dala
+    _taara_ikhza
+
+ba_hzaszza
+
+    _ulaszaphza_hza_ai _ularaya_isa_i_ai
+    _ula_aa_hza_daaszza _ulajaara_i_ai
+    _aa_hza_daszza _ula_tagza_i_iraa_ta
+    _aa_hza_daszza _ula_tagza_i_iraa_ta _ula_aasaasa_i_ai
+
+_taszaphza_hza
+
+    _ulamawaa_jza_i_ae
+    _aabaja_da_i
+    bawaabaa_ta
+    makzaala_ai _aeshawaaya_i_ai
+    _taszaphza_hza mana gza_ira _aana_tarana_ta
+
+mashaaraka_ai
+
+    _tawaaszala ma_ae wa_ika_iba_i_dayyaa
+    masaa_ae_da_ai
+    _ulama_i_daana
+    _tabara_ae
+
+_aa_dawaa_ta
+
+    maajzzaa _iszala _hanaa
+    _tagza_i_iraa_ta jzzaa_ta _aelaakza_ai
+    raphza_ae malaphza
+    _ulaszaphza_hzaa_ta _ulakhzaasza_ai
+    waszala_ai _daayama_ai
+    ma_aelaumaa_ta _ulaszaphza_hza_ai
+    _usa_tasha_ha_da ba_hajzza_ha _ulaszaphza_hza_ai
+    _aenaszara wa_ika_i bayyaanaa_ta
+
+_tzabaa_ae_ai/_tasza_da_ira
+
+    _aanashaa ka_taaba
+    _ta_hzama_ila "e_PDF"
+    nasakhza_ai lala_tzabaa_ae_ai
+
+phza_i mashaara_i_ae _aakhzara_aa
+
+    wa_ika_ima_i_dayyaa kaumanajza
+
+lagzaa_ta
+
+
