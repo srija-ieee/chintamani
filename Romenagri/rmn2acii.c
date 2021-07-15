@@ -102,6 +102,11 @@ matra (char *tok)
 	  tok++;
 	  level1 (tok);
 	  break;
+	case 'w':
+	  strcat (msg, lookup ("^ow"));
+	  tok++;
+	  level1 (tok);
+	  break;
 	case 'a':
 	  strcat (msg, lookup ("^oa"));
 	  tok++;
@@ -294,6 +299,11 @@ int level2c (char *tok)
 	  tok++;
 	  level1 (tok);
 	  break;
+	case 'w':
+	  strcat (msg, lookup ("_ow"));
+	  tok++;
+	  level1 (tok);
+	  break;
 	case 'a':
 	  strcat (msg, lookup ("_oa"));
 	  tok++;
@@ -352,6 +362,9 @@ int level2c (char *tok)
 	  break;
 	case 'd':
 	  level2b (++tok, "_rd");
+	  break;
+	case 'r':
+	  level2b (++tok, "_rr");
 	  break;
 	default:
 	  strcat (msg, c2s (tok[0]));

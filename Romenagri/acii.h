@@ -1,5 +1,5 @@
 /*
-Copyright (C) 2003,2004,2005,2006 Abhishek Choudhary
+Copyright (C) 2003-2021 Abhishek Choudhary
 This file is part of the Romenagri Transliteration System.
 
 The Romenagri Transliteration System is free software; 
@@ -27,9 +27,13 @@ Modifications: (Please maintain reverse chronological order)
                         Name of modifier <alias>,
 			email adress of modifier
 
+	15-Jul-2021, Added the modifications section,
+                        Abhishek Choudhary <obonac>,
+                        a.choudhary@ieee.org
+
 	19-Jan-2006, Added the modifications section,
-                        Abhishek Choudhary <hi_pedler>,
-                        choudhary@indicybers.net
+                        Abhishek Choudhary <obonac>,
+                        a.choudhary@ieee.org
 
 End of modifications.
 */
@@ -38,11 +42,11 @@ End of modifications.
 
 /** IMPORTANT change on ^a (matra '^a') --  17-mar-2004*/
 /** change undone */
-/* however the pathology is that rmn='^a' is matched on empty string*/
+/* however the bug remains that rmn='^a' is matched on empty string*/
 
 #ifndef __ACII_H__
 #define __ACII_H__
-#define ACII_LEN 81
+#define ACII_LEN 84
 
 #ifdef __cplusplus
    extern "C" {
@@ -74,6 +78,8 @@ static char *acii_chrt[ACII_LEN][2]=
 {"^aee", "á"},
 {"_ai",  "­"},  //\xAC :)
 {"^ai",  "â"},
+{"_ow",  "¯"},
+{"^ow",  "ä"},
 {"_oa",  "°"},
 {"^oa",  "å"},
 {"_ou",  "±"},
@@ -109,6 +115,7 @@ static char *acii_chrt[ACII_LEN][2]=
 {"ma",   "Ì"},
 {"ya",   "Í"},
 {"ra",   "Ï"},
+{"_rra", "Ð"},
 {"la",   "Ñ"},
 {"wa",   "Ô"},
 {"lvra", "Ò"},
