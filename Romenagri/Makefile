@@ -200,6 +200,7 @@ install:
 	install acii2uni$(ECECEXT) $(INSTROOT)$(EXECDIR)/acii2uni$(ECECEXT)
 	install fixuninum$(EXECEXT) $(INSTROOT)$(EXECDIR)/fixuninum$(EXECEXT)
 	install uni2acii$(EXECEXT) $(INSTROOT)$(EXECDIR)/uni2acii$(EXECEXT)
+	install fltr_te_hi $(INSTROOT)$(EXECDIR)/fltr_te_hi
 
 #Uninstall the stuff
 uninstall: 
