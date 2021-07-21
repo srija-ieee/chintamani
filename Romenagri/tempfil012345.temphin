@@ -1,0 +1,13 @@
+#samaawaeesha <maanakapana.sa>
+
+poor_nnaa_mka mukhya() {
+
+  poor_nnaa_mka ki_taaba=10, raika=2;
+  poor_nnaa_mka s_thaana=0;
+  
+ s_thaana=ki_taaba / raika;
+  
+  ma_likhoa("³ÛÂÚÊ=%È, Ïâ³=%È, ×èÃÚÆ=%È\Æ",ki_taaba, raika, s_thaana);
+
+  waapasa 0;
+}

@@ -1,0 +1,1 @@
+eval $(cat arabic-generic.csv | tail +4 | sed 's/[^0-9A-F]//g;' | tr '\n' ',' | sed 's/,,\|,$/\n/g' | awk -F',' 'BEGIN {printf "printf \"sed \\\""};/.*/ {printf "s/["; i=NF;while(i>1){printf "\\u" $i; i--}; printf "]/\\u" $1 "/g; "};END {print "\\\"\""}')
