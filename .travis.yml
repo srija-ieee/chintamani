@@ -1,0 +1,15 @@
+language: c
+
+arch: ppc64le
+
+compiler: gcc
+
+os: linux
+
+dist: focal
+
+install: skip
+
+script:
+  - apt install gawk flex yacc
+  - bash ./install
