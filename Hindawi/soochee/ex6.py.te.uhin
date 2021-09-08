@@ -1,0 +1,4 @@
+నిర్వచించు my_function():
+  ముద్రించు("Hello from a function")
+
+my_function()
