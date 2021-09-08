@@ -1,6 +1,6 @@
 # coding=utf-8
 కా = 33
-b = 200
-ఉంటే b > కా:
-  ముద్రించు("b is greater than కా")
+చ = 200
+ఉంటే చ > కా:
+  ముద్రించు("చ is greater than కా")
 
