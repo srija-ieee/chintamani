@@ -3,5 +3,5 @@
 kaa = 33
 cha = 200
 if cha > kaa:
-  print("చ is greater than కా")
+  print("చ కన్నా ఎక్కువ కా")
 
