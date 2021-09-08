@@ -33,10 +33,10 @@
 EXECDIR=/usr/bin
 
 all:
-	cat h2py.uhin | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf > h2py.lex
+	cat h2py.uhin | ../../Romenagri/flatten_uni_dev | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf > h2py.lex
 	flex -olexyy.c -8 h2py.lex
 	gcc -oh2py lexyy.c -lfl
-	cat py2h.uhin | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf > py2h.lex
+	cat py2h.uhin | ../../Romenagri/flatten_uni_dev | iconv -f utf-8 -t utf-16 | uni2acii | acii2cf > py2h.lex
 	flex -olexyy.c -8 py2h.lex
 	gcc -opy2h lexyy.c -lfl
 
