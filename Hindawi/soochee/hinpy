@@ -28,5 +28,5 @@
 #
 
 echo '# coding=utf-8' >hintmp.py
-cat $1 | ../../Romenagri/flatten_uni_dev | iconv -t utf16 | uni2acii | acii2cf | ./h2py | acii2uni | iconv -futf16 | ../../Romenagri/fltr_hi_te >>hintmp.py
+cat $1 | ../../Romenagri/flatten_uni_dev | iconv -t utf16 | uni2acii | acii2cf | h2py | acii2uni | iconv -futf16 | ../../Romenagri/fltr_hi_te >>hintmp.py
 python3 hintmp.py
